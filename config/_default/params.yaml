@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: matte #Initially it was minimal
+  theme_day: default #Initially it was minimal
   theme_night: 
   font: native
   font_size: M   #Initially it was L
