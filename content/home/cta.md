@@ -9,10 +9,8 @@ design:
   columns: '1'
 ---
 <div style="text-align: justify"> 
-ONOFRE-4 aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing
-resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the
-interrelation between networks operated by different actors.
+The GCO group at Universidad de Valladolid began its activity in the field of optical communications, gradually opening up new lines of action in other areas. The group currently works in different areas: optical communication networks, networking, vehicular networks, radio communications, AI for health, rehabilitation technologies, and teaching innovation. 
 </div>
 
 <br>
-{{% cta cta_link="./concept/" cta_text="More info about the project →" %}}
+{{% cta cta_link="./concept/" cta_text="More info about the group →" %}}
