@@ -16,7 +16,7 @@ main:
     url: concept
     weight: 1
 
-  - name: Partners
+  - name: Members
     url: partners
     weight: 2
 
