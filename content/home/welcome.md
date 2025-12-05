@@ -8,8 +8,8 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 active: true
 title: |
-  <p>ONOFRE-4</p> <p>Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility</p>
-subtitle: Proyectos PID2023-148104OB-C41, PID2023-148104OB-C42 y PID2023-148104OB-C43 financiados por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.
+  <p>GCO-UVa</p> <p>Grupo de Comunicaciones Ópticas - Universidad de Valladolid</p>
+subtitle: Working in project PID2023-148104OB-C41 funded by MICIU/AEI/10.13039/501100011033 and FEDER/UE, and other projects.
 image_title: onofre4_logo.png
 image_height: 300px
 design:
