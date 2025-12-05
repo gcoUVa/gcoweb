@@ -65,5 +65,5 @@ jobs:
         run: |
           curl -X POST \
            -H 'Content-Type: application/json' \
-           -d '{"chat_id": "${{ secrets.TELEGRAM_TO }}", "text": "✅ ONOFRE4 has been updated (onofre4.tel.uva.es)", "disable_notification": false}' \
+           -d '{"chat_id": "${{ secrets.TELEGRAM_TO }}", "text": "✅ GCO-UVa has been updated (gcoweb.github.io)", "disable_notification": false}' \
            https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage
