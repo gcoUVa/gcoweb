@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Optical Communications Group (Universidad de Valladolid)
+title: Ignacio de Miguel (Catedrático de Universidad)
 stud:
 # Is this the primary user of the site?
 superuser: false
@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=fe9385c725979c89&idioma=es&tipo=activ,&elmeucv=N">Noemí Merayo Álvarez</a> <br>  Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Optical Network Planning and Operation (ONOFRE-4-UVa). Ref. PID2023-148104OB-C41
+role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> 
 
 # Organizations/Affiliations
 #organizations:
@@ -31,12 +31,12 @@ social:
     icon_pack: fa
     name: 'Phone'
     link: 'tel:+34983185574'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/idemiguel_uva
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=rynwMEIAAAAJ&hl=en
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
