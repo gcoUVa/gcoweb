@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ONOFRE-4 # Website name
-baseURL: 'https://onofre4.tel.uva.es' # Website URL
+title: GCO-UVa # Website name
+baseURL: 'https://gcouva.github.io/gcoweb/' # Website URL
 canonifyURLs: false
 relativeURLs: false
 
@@ -14,7 +14,7 @@ relativeURLs: false
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
