@@ -73,4 +73,5 @@ format:
     css: styles.css
     toc: true
     link-external-icon: false
+    target: _self
     link-external-newwindow: true 
