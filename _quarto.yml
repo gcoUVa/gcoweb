@@ -38,7 +38,7 @@ website:
   page-navigation: true
   page-footer: 
     left: "[GCO-UVa](http:/gcouva.github.io/gcoweb) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) provided by [Dr. Gang He](http://drganghe.github.io)"
+    center: "Web site developed thanks to funded by 'Contrato Garatía Juvenil...'. Website build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) provided by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: instagram
         href: https://www.instagram.com/gcouva/
