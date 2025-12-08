@@ -57,7 +57,7 @@ website:
   repo-url: https://github.com/gcouva/gcoweb
   open-graph: true
   twitter-card: true    
-  site-url: "http://gcouva.github.io"
+  site-url: "https://gcouva.github.io/gcoweb"
 
 format:
   html:
@@ -73,5 +73,4 @@ format:
     css: styles.css
     toc: true
     link-external-icon: false
-    target: _self
     link-external-newwindow: true 

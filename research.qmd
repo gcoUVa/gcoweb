@@ -24,7 +24,6 @@ listing:
 page-layout: full
 page-navigation: true
 title-block-banner: false
-target: _self
 ---
 
 :::{#research}
