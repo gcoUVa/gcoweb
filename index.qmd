@@ -62,7 +62,7 @@ listing:
 :::
 
 ::: {.g-col-12 .g-col-md-5}
-[![](/files/images/logogco.jpg)](about.qmd){fig-align="center"}
+[![](/files/images/logogco_transparente.png)](about.qmd){fig-align="center"}
 :::
 
 :::
