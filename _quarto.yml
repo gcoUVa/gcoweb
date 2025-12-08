@@ -7,8 +7,6 @@ website:
   description: "GCO-UVa: Optical Communications Group at Universidad de Valladolid (Spain)."
  
   navbar:
-    #background: "#752131"
-    #foreground: "#FFFFFF"
     # title: false    # Do not display title
     # logo: /files/images/logogco.jpg   # Display logo
     left:
@@ -63,9 +61,9 @@ website:
 
 format:
   html:
+    theme: cosmo
     #theme: materia
     #theme: default
-    theme: cosmo
     #theme: litera
     #theme: lumen
     #theme: minty
@@ -76,6 +74,3 @@ format:
     toc: true
     link-external-icon: false
     link-external-newwindow: true 
-
-# default
-
