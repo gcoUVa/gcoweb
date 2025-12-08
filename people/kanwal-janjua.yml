@@ -1,9 +1,9 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/258366/detalle?lang=en
-      image: /files/headshots/soheil-hosseini.jpg
-      title: "Soheil HOSSEINI"
-      lastname: "Hosseini"
+    - path: https://portaldelaciencia.uva.es/investigadores/988309/detalle?lang=en
+      image: /files/headshots/kanwal-janjua.jpg
+      title: "Hafiza Kanwal JANJUA"
+      lastname: "Janjua"
       started: "2021"
-      ended: "2025" 
+      ended: "" 
       subtitle: "PhD Student"
       categories: [PhD Student] 
 # [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]

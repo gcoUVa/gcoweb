@@ -30,8 +30,11 @@ listing:
   grid-columns: 4
   image-height: 200px
   contents: 
+    - people/camilo-anzola.yml
+    - people/kanwal-janjua.yml
+    - people/miguel-silva.yml
     - people/marco-villa.yml
-
+    
 - id: lab-technicians
   type: grid
   fields: [image, title, subtitle]
@@ -42,7 +45,6 @@ listing:
     - people/wanda-deleon.yml
 
 - id: lab-alumni
-  sort: "lastname asc"
   type: table
   fields: [image, title, subtitle, started, ended]
   grid-item-align: center  
@@ -50,12 +52,12 @@ listing:
   image-height: 25px
   field-display-names: 
       title: "Name"
-      subtitle: "Role at GCO/Affiliation"
+      subtitle: "Past role at GCO/Affiliation"
       started: "Started"
       ended: "Ended"
-  contents: 
-    - people/soheil-hosseini.yml
+  contents: # More recent first
     - people/maryam-masoumi.yml 
+    - people/soheil-hosseini.yml
     - people/lidia-ruiz.yml   
 
 page-navigation: false

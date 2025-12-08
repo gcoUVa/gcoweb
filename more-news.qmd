@@ -17,6 +17,10 @@ listing:
   sort-ui: true
   filter-ui: true
   contents:
+  # Hay que verificar si ordena bien por la mezcla
+  # Quizás haya que meter el news.yml en el directorio
+  # news y poner aquí news/ y news/*.yml. Pendiente de
+  # verificación
     - news/
     - news.yml
 ---

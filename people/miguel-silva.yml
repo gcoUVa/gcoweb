@@ -1,8 +1,8 @@
-    - path: https://www.uva.es
-      image: /files/headshots/marco-villa.jpg
-      title: "Marco A. VILLA"
-      lastname: "Villa"
-      started: "2025"
+    - path: https://portaldelaciencia.uva.es/investigadores/988295/detalle
+      image: /files/headshots/miguel-silva.jpg
+      title: "Miguel A. SILVA"
+      lastname: "Silva"
+      started: ""
       ended: "" 
       subtitle: "PhD Student"
       categories: [PhD Student] 

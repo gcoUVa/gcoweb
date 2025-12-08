@@ -1,10 +1,10 @@
-    - path: https://www.uva.es
-      image: /files/headshots/evaristo-abril.jpg
-      title: "Evaristo J. Abril Domingo"
-      lastname: "Abril Domingo"
-      started: "Dec 2024"
-      ended: "Aug 2025" 
-      subtitle: "Full Professor (Catedrático de Universidad)"
-      categories: [Director, Professor] 
+    - path: https://portaldelaciencia.uva.es/investigadores/258279/detalle?lang=en
+      image: /files/headshots/maryam-masoumi.jpg
+      title: "Maryam MASOUMI"
+      lastname: "Masoumi"
+      started: "2021"
+      ended: "2025" 
+      subtitle: "PhD Student"
+      categories: [PhD Student] 
 # [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

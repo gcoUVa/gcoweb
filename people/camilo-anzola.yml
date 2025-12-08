@@ -1,8 +1,8 @@
-    - path: https://www.uva.es
-      image: /files/headshots/marco-villa.jpg
-      title: "Marco A. VILLA"
-      lastname: "Villa"
-      started: "2025"
+    - path: https://portaldelaciencia.uva.es/investigadores/767375/detalle?lang=es
+      image: /files/headshots/camilo-anzola.jpg
+      title: "Camilo ANZOLA-ROJAS"
+      lastname: "Anzola"
+      started: "2020"
       ended: "" 
       subtitle: "PhD Student"
       categories: [PhD Student] 

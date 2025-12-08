@@ -1,10 +1,10 @@
-    - path: https://www.uva.es
+    - path: https://portaldelaciencia.uva.es/investigadores/181894/detalle?lang=es
       image: /files/headshots/lidia-ruiz.jpg
       title: "Lidia RUIZ"
       lastname: "Ruiz"
-      started: "Dec 2024"
-      ended: "Aug 2025" 
-      subtitle: "Researcher"
-      categories: [Postdoc] 
+      started: ""
+      ended: "" 
+      subtitle: "PhD Student and PostDcoc"
+      categories: [PhD Student, Postdoc] 
 # [Corodinator, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 
