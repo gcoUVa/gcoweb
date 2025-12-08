@@ -1,0 +1,10 @@
+    - path: https://portaldelaciencia.uva.es/investigadores/181821/detalle?lang=en
+      image: /files/headshots/ramon-delarosa.jpg
+      title: "Ramón DE LA ROSA"
+      lastname: "de la Rosa"
+      #started: "Dec 2024"
+      #ended: "Aug 2025" 
+      subtitle: "Assistant Professor"
+      categories: [Professor] 
+# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
+# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

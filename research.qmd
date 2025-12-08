@@ -1,0 +1,31 @@
+---
+title: "Research"
+subtitle: "What we do"
+toc: false
+listing:
+- id: research
+  contents: 
+    - research/optical-networks
+    - research/vehicular-communications
+    - research/radiocommunications
+    - research/rehabilitation-technologies
+    - research/innovation-on-education
+  sort: false
+  type: grid
+  grid-columns: 3
+  image-height: 200px
+  fields: [image, title, description]
+  page-size: 25
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+
+page-layout: full
+page-navigation: true
+title-block-banner: false
+---
+
+:::{#research}
+:::
+

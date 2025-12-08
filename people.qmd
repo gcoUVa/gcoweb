@@ -1,0 +1,97 @@
+---
+title: "People"
+subtitle: "Who we are"
+toc: true
+page-layout: full
+listing:
+- id: lab-professors
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  contents: 
+    - people/evaristo-abril.yml
+    - people/ruben-lorenzo.yml
+    - people/patricia-fernandez.yml
+    - people/ramon-duran.yml
+    - people/ignacio-demiguel.yml
+    - people/noemi-merayo.yml
+    - people/juancarlos-aguado.yml
+    - people/alfonso-bahillo.yml
+    - people/alonso-alonso.yml
+    - people/juan-blas.yml
+    - people/ramon-delarosa.yml
+
+- id: lab-researchers
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  contents: 
+    - people/marco-villa.yml
+
+- id: lab-technicians
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  contents: 
+    - people/wanda-deleon.yml
+
+- id: lab-alumni
+  sort: "lastname asc"
+  type: table
+  fields: [image, title, subtitle, started, ended]
+  grid-item-align: center  
+  grid-columns: 4
+  image-height: 25px
+  field-display-names: 
+      title: "Name"
+      subtitle: "Role at GCO/Affiliation"
+      started: "Started"
+      ended: "Ended"
+  contents: 
+    - people/soheil-hosseini.yml
+    - people/maryam-masoumi.yml 
+    - people/lidia-ruiz.yml   
+
+page-navigation: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+## Professors/Researchers
+
+:::{#lab-professors}
+:::
+
+## Researchers/Students
+
+:::{#lab-researchers}
+:::
+
+## Technicians
+
+:::{#lab-technicians}
+:::
+
+## Alumni and Past Visitors
+
+:::{#lab-alumni}
+:::
+
+<!--
+## Collaborators
+
+We are fortunate to have collaborated with many researchers and practitioners. Please visit their websites to learn more about their amazing work.
+
+:::{#lab-collaborator}
+:::
+
+
+-->

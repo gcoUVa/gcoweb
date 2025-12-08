@@ -1,0 +1,20 @@
+---
+title: "Results"
+subtitle: "Funding, projects, publications, PhD theses, patents and collaborations"
+page-layout: full
+toc: false
+listing: 
+- id: results
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: left
+  grid-columns: 3
+  # max-items: 6
+  image-height: 200px
+  contents: 
+    - results.yml 
+---
+
+:::{#results}
+:::
+

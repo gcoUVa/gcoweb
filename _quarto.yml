@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "GCO-UVa"
+  description: "GCO-UVa: Optical Communications Group at Universidad de Valladolid (Spain)."
+ 
+  navbar:
+    #background: "#752131"
+    #foreground: "#FFFFFF"
+    # title: false    # Do not display title
+    # logo: /files/images/logogco.jpg   # Display logo
+    left:
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+      - text: People
+        href: people.qmd
+      - text: Latest projects
+        href: latest-projects.qmd
+      - text: Results
+        href: results.qmd    
+      - text: Awards
+        href: awards.qmd    
+      - text: News
+        href: news.qmd
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/gcouva/
+      - icon: facebook
+        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/
+      - icon: linkedin
+        href: https://www.linkedin.com/company/grupo-de-comunicaciones-%C3%B3pticas
+      - icon: twitter
+        href: https://x.com/gco_UVa
+      - icon: github
+        href: https://github.com/gcouva
+  page-navigation: true
+  page-footer: 
+    left: "[GCO-UVa](http:/gcouva.github.io/gcoweb) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) provided by [Dr. Gang He](http://drganghe.github.io)"
+    right:  
+      - icon: instagram
+        href: https://www.instagram.com/gcouva/
+      - icon: facebook
+        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/
+      - icon: linkedin
+        href: https://www.linkedin.com/company/grupo-de-comunicaciones-%C3%B3pticas
+      - icon: twitter
+        href: https://x.com/gco_UVa
+      - icon: github
+        href: https://github.com/gcouva
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/gcouva/gcoweb
+  open-graph: true
+  twitter-card: true    
+  site-url: "http://gcouva.github.io"
+
+format:
+  html:
+    #theme: materia
+    #theme: default
+    theme: cosmo
+    #theme: litera
+    #theme: lumen
+    #theme: minty
+    #theme: pulse
+    #theme: superhero
+    ##theme: zephyr
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true 
+
+# default
+

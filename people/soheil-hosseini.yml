@@ -1,0 +1,10 @@
+    - path: http://orcid.org/0000-0003-4164-2467
+      image: /files/headshots/evaristo-abril.jpg
+      title: "Evaristo J. Abril Domingo"
+      lastname: "Abril Domingo"
+      started: "Dec 2024"
+      ended: "Aug 2025" 
+      subtitle: "Full Professor (Catedrático de Universidad)"
+      categories: [Director, Professor] 
+# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
+# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

@@ -1,0 +1,28 @@
+---
+title: "News"
+subtitle: "What's going on at GCO"
+page-layout: full
+toc: false
+listing: 
+- id: news
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 3
+  max-items: 3
+  image-height: 200px
+  contents: 
+    - news/
+    - news.yml
+---
+
+
+:::{#news}
+:::
+
+<p align="right">[More News »](/more-news.qmd)</p>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

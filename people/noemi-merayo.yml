@@ -1,0 +1,10 @@
+    - path: https://portaldelaciencia.uva.es/investigadores/178602/detalle?lang=en
+      image: /files/headshots/noemi-merayo.jpg
+      title: "Noemí MERAYO"
+      lastname: "Merayo"
+      #started: "Dec 2024"
+      #ended: "Aug 2025" 
+      subtitle: "Associate Professor"
+      categories: [Professor] 
+# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
+# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

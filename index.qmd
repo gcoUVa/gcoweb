@@ -1,0 +1,106 @@
+---
+#title: "GCO-UVa website"
+css: 
+  - custom.css
+
+page-layout: custom
+#navbar: false
+
+listing:
+- id: research
+  contents: 
+    - research/optical-networks
+    - research/vehicular-communications
+    - research/radiocommunications
+    - research/rehabilitation-technologies
+    - research/innovation-on-education
+  sort: false
+  type: grid
+  grid-columns: 4
+  max-items: 8
+  image-height: 150px
+  fields: [image, title]
+  page-size: 8
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+
+- id: news
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+  max-items: 3
+  page-size: 3
+  contents: 
+    - news
+    - news.yml
+
+
+---
+
+::: {.background-frame}
+::: {.content-block}
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+<p align="center" style="font-size:30px; font-weight:bold;">Welcome to GCO-UVa Website</p>
+<p align="center" style="font-size:24px;">Research on Telecommunication Networks and Applications</p>
+<p align="center" style="font-size:24px;">Universidad de Valladolid (Spain)</p>
+
+::: {.button}
+[Learn more](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](/files/images/logogco.jpg)](about.qmd){fig-align="center"}
+:::
+
+:::
+
+:::
+:::
+
+
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">News</p>
+
+:::{#news}
+:::
+
+::: {.button}
+[More news](/more-news.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">Research lines</p>
+
+:::{#research}
+:::
+
+::: {.button}
+[Explore more](research.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+
+

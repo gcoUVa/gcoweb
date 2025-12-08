@@ -1,0 +1,33 @@
+---
+title: "About GCO"
+subtitle: "Research on Telecommunication Networks and Applications"
+page-layout: full
+---
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+
+The **Optical Communications Group (GCO)** at **[Universidad de Valladolid](https://www.uva.es)** has carried out, since its creation, extensive activity in the field of **basic research on optical components**, later expanding into the **design of optical networks**, and more recently addressing other areas such as **radio communications**, **vehicular communications** and **wireless localization systems**. Thus, new lines of work have progressively opened in various areas. The group currently works in five core areas: **optical communication networks**, **vehicular communications**, **radio communications**, **rehabilitation technologies**, and **educational innovation**. In this regard, the group has always been concerned with researching improvements in **teaching–learning processes**, developing various projects focused on educational support software and the improvement of teaching materials.
+
+Contact: Prof. Evaristo J. Abril: <ejabril@tel.uva.es>
+
+<p align="right">[More details »](/more-about.qmd)</p>
+
+:::
+
+<!--
+:::{style="font-size: 1rem;"}
+:::
+-->
+
+::: {.g-col-12 .g-col-md-5}
+
+![Photo of GCO-UVa members](/files/images/group.jpg)
+
+:::
+
+:::
+

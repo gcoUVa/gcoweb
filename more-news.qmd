@@ -1,0 +1,30 @@
+---
+title: "News"
+subtitle: "What's new"
+page-layout: full
+date-format: "YYYY-MM-DD"
+toc: false
+listing: 
+- id: news
+  sort: "date desc"
+  type: default
+  max-description-length: 175
+  fields: [image, title, subtitle, date, description]
+  field-display-names: 
+      subtitle: "Type"
+  #image-height: 100px
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  contents:
+    - news/
+    - news.yml
+---
+
+
+:::{#news}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

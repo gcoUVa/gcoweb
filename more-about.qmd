@@ -1,0 +1,38 @@
+---
+title: "About GCO"
+subtitle: "Research on Telecommunication Networks and Applications"
+page-layout: full
+---
+
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+The group started workin on the field of **optical components and their applications**. Then, at the end of 1998 a new research line was launched, focused on the **analysis and design of optical networks**. Given the group’s experience in components, the initial research concentrated on analyzing the **optimal placement of components** in the network. Later, the research centered on the **design and optimization of WRONs** (*Wavelength-Routed Optical Networks*). In this field, the group has proposed several **efficient and fast algorithms** for designing virtual topologies, new methods for solving the **static routing and wavelength assignment (RWA)** problem, and **metaheuristic techniques** such as **ant colony optimization** and **genetic algorithms** for solving both static and dynamic RWA problems. These techniques have been shown to deliver **excellent results with significantly lower computation time** compared to other alternatives. More recently, the group has developed **genetic-algorithm-based methods** for designing logical topologies in **reconfigurable WDM networks** and for the routing and dimensioning of networks. Work has also been conducted on **hybrid networks**, proposing **polymorphic networks** in collaboration with the **Electro-Optical Communications Group** at **[Eindhoven University of Technology (TU/e)](https://www.tue.nl)**. This type of network combines several switching paradigms within a single physical network, ensuring that each service uses the most suitable paradigm.
+
+As part of the **FP7 CHRON project**, which the group coordinated, the concept of **CHRON Networks** (*Cognitive and Heterogeneous Reconfigurable Optical Networks*) was proposed. In this area, the group has explored the use of **cognitive methods** for the control and design of these networks. Within the broader field of **Artificial Intelligence**, the group has collaborated with the **Research Group of Admela Jukan** (currently at the **[Technische Universität Braunschweig](https://www.tu-braunschweig.de)**), with whom a recent **survey article** on the use of AI in optical networks was published. More recently, research has begun on the **design of control algorithms for elastic or flexible optical networks**. Thanks to collaboration with **[Telefónica I+D](https://www.telefonica.com/en/innovation/)**, the group has worked on evaluating the impact of the **TCP protocol** on **Optical Burst Switching (OBS)** networks.
+
+Another line of research focuses on proposing **medium access control mechanisms** for **passive optical access networks** that can provide adequate **Quality of Service (QoS)** according to stipulated requirements and user differentiation aligned with service provider conditions. Several methods and algorithms have been proposed for managing **EPON** and **GPON** access networks, as well as **Long-Reach PON** networks. Part of this work has resulted in collaborations and publications with **Professor John Senior’s Group** at the **[University of Hertfordshire](https://www.herts.ac.uk)** and with the **Telecommunication Networks Engineering Group (GIRTEL)** at the **[University of Cartagena](https://www.upct.es)**. In addition, a research line centered on **Software Defined Networks (SDN)** is starting within the area of passive optical access networks, using a **25-kilometer real GPON testbed** built in the group’s laboratory. Part of this work is being carried out in collaboration with the **[Polytechnic University of Madrid (UPM)](https://www.upm.es)** and has already produced recent publications.
+
+In recent years a new research topic has opened related to **radio communications, dosimetry, and localization**. This includes several lines of work: one focusing on the integration of **measurement station systems**, another on **MIMO systems**, and a third on **indoor wireless localization techniques**. The group is also now working on solving **intermediate-frequency regime problems** in the fields of dosimetry and localization.
+
+The **Optical Communications Group** also works on a consolidated research line that develops **prototypes for Rehabilitation Technologies**. This includes the implementation of **real-time systems for the extraction, processing, and interpretation of biomedical signals**, as well as systems for **sensory or functional stimulation** for users with various conditions.
+
+Members of the group participate in several scientific and professional societies—**IEEE**, **OSA** (now **[Optica](https://www.optica.org)**), and **COIT/AEIT**—and serve as reviewers for numerous international publications in the field of optical communications, including *Electronics Letters*, *Photonics Technology Letters*, *Optics Letters*, *Optics Communications*, *Journal of the Optical Society of America B*, *IEEE/OSA Journal of Lightwave Technology*, *IEEE/OSA Journal of Optical Communications and Networking*, and *Elsevier Optical Switching and Networking*. The group’s work in supervising **doctoral theses** and **final degree projects** has been recognized with several **national, regional, and local awards**.
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+
+![Photo 1 of GCO-UVa members](/files/images/group.jpg)
+
+![Photo 2 of GCO-UVa members](/files/images/group.jpg)
+
+![Photo 3 of GCO-UVa members](/files/images/group.jpg)
+
+![Photo 4 of GCO-UVa members](/files/images/group.jpg)
+:::
+
+::::
+

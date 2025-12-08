@@ -1,0 +1,10 @@
+    - path: https://portaldelaciencia.uva.es/investigadores/179863/detalle?lang=en
+      image: /files/headshots/ramon-duran.png
+      title: "Ramón J. DURÁN BARROSO"
+      lastname: "Durán Barroso"
+      #started: "Dec 2024"
+      #ended: "Aug 2025" 
+      subtitle: "Full Professor"
+      categories: [Professor] 
+# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
+# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

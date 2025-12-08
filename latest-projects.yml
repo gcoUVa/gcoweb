@@ -1,0 +1,33 @@
+
+- path: https://onofre4.tel.uva.es
+  image: https://onofre4.tel.uva.es/media/logo_huc42becb747592e49adedbc9dc8a230a7_516970_0x100_resize_lanczos_3.png
+  title: "ONOFRE-4: Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility"
+  subtitle: "National project (2024-2027)"
+  #author: UVa, UPCT, UMU
+  description: "Efficient planning and management of networks equipped with computing resources, providing support for connected, reliable and secure mobility."
+  started: 2024
+  ended: 2027
+  categories: [National] 
+
+- path: https://iotalentum.eu
+  image: https://iotalentum.eu/sites/default/files/logo.svg
+  title: "IOTALENTUM"
+  subtitle: "European project (2020-2025)"
+  #author: UVa
+  description: "High-level training in the field of IoT to Early Stage Researchers and research on IoT supporting infrastructures, cybersecurity and smart grids."
+  started: 2020
+  ended: 2025
+  #funding: ""
+  categories: [European]
+
+- path: https://sway.cloud.microsoft/yq1ifPqyzyppxaKi?ref=Link
+  image: /files/images/projects/artemis.png
+  title: "ARTEMIS"
+  subtitle: "Regional project (2020-2023)"
+  #author: UVa 
+  description: "The ARTEMIS project has studied and proposed solutions to enable future communications networks to support connected vehicle services. This requires the integration of edge computing into communications networks. Several technologies appear to facilitate this evolution: advanced optical networks for both access and metropolitan/backbone segments, control methods based on software-defined networks (SDN) and network function virtualisation (NFV)."
+  started: 2020
+  ended: 2025
+  categories: [Regional]
+
+

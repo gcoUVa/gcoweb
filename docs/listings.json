@@ -1,0 +1,75 @@
+[
+  {
+    "listing": "/results.html",
+    "items": []
+  },
+  {
+    "listing": "/research/vehicular-communications/index.html",
+    "items": [
+      "/news/2025-12-01-pub-optimizing-road-size.html"
+    ]
+  },
+  {
+    "listing": "/research/radiocommunications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/innovation-on-education/index.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-12-01-pub-optimizing-road-size.html"
+    ]
+  },
+  {
+    "listing": "/more-news.html",
+    "items": [
+      "/news/2025-12-01-pub-optimizing-road-size.html"
+    ]
+  },
+  {
+    "listing": "/latest-projects.html",
+    "items": []
+  },
+  {
+    "listing": "/awards.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/research/optical-networks/index.html",
+      "/research/vehicular-communications/index.html",
+      "/research/radiocommunications/index.html",
+      "/research/rehabilitation-technologies/index.html",
+      "/research/innovation-on-education/index.html",
+      "/news/2025-12-01-pub-optimizing-road-size.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
+    "listing": "/research/optical-networks/index.html",
+    "items": [
+      "/news/2025-12-01-pub-optimizing-road-size.html"
+    ]
+  },
+  {
+    "listing": "/research/rehabilitation-technologies/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/optical-networks/index.html",
+      "/research/vehicular-communications/index.html",
+      "/research/radiocommunications/index.html",
+      "/research/rehabilitation-technologies/index.html",
+      "/research/innovation-on-education/index.html"
+    ]
+  }
+]
