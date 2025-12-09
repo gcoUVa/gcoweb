@@ -3,17 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <title>Redirigiendo...</title>
-  <!-- Redirección con JavaScript -->
   <script>
-    // Reemplaza la página actual por /en/
-    window.location.replace("/gcoweb/en/");
+    // Obtiene la base del repo desde la URL actual
+    const currentPath = window.location.pathname; // e.g., "/gcoweb/"
+    // Asegurarse de que termina con "/"
+    const basePath = currentPath.endsWith("/") ? currentPath : currentPath + "/";
+    // Redirige a "en/" dentro del mismo subdirectorio
+    window.location.replace(basePath + "en/");
   </script>
-  <!-- Fallback para navegadores sin JS -->
   <noscript>
-    <meta http-equiv="refresh" content="0; url=/gcoweb/en/">
+    <!-- Fallback para navegadores sin JS -->
+    <meta http-equiv="refresh" content="0; url=en/">
   </noscript>
 </head>
 <body>
-  <p>Redirigiendo a <a href="/gcoweb/en/">/gcoweb/en/</a>…</p>
+  <p>Redirigiendo a <a href="en/">en/</a>…</p>
 </body>
 </html>
+
