@@ -24,8 +24,6 @@ website:
       - text: Noticias
         href: news-es.qmd
     right:
-      - text: Español
-        href: ../es
       - text: English
         href: ../en
       - icon: instagram

@@ -27,8 +27,6 @@ website:
     right:
       - text: Español
         href: ../es
-      - text: English
-        href: ../en
       - icon: instagram
         href: https://www.instagram.com/gcouva/
       - icon: facebook
