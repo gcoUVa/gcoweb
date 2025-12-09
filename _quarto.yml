@@ -74,3 +74,4 @@ format:
     toc: true
     link-external-icon: false
     link-external-newwindow: true 
+    link-external-filter: '^https://gcouva.github.io/gcoweb'
