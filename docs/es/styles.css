@@ -1,0 +1,102 @@
+/* -----------------------------------------------------------
+   PAGE BACKGROUND
+   ----------------------------------------------------------- */
+body {
+  background-color: #f6f6f6;
+}
+
+/* Write title of listings in bold but only in cards (grids) */
+/* I used "Inspect" in a browser to determine the type to be modified */
+.card-title.listing-title {
+  font-weight: bold !important;
+}
+
+/* -----------------------------------------------------------
+   NAVBAR COLORS
+   ----------------------------------------------------------- */
+
+/* Navbar background #752131*/
+.navbar {
+  background-color: #752131 !important;
+}
+
+/* Brand (site title) */
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Navbar links - default */
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+/* Navbar links - hover #D4939C*/
+.navbar .nav-link:hover {
+  color: #D4939C !important; /* soft light red */
+}
+
+/* Navbar links - active */
+.navbar .nav-link.active,
+.navbar .nav-link:focus {
+  color: #D4939C !important;
+}
+
+/* Dropdown menu background + items */
+.navbar .dropdown-menu {
+  background-color: #752131 !important;
+}
+
+.navbar .dropdown-item {
+  color: #ffffff !important;
+}
+
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus {
+  background-color: #752131 !important; /* darker shade */
+  color: #D4939C !important;
+}
+
+
+/* -----------------------------------------------------------
+   SIDEBAR / TABLE OF CONTENTS (TOC)
+   ----------------------------------------------------------- */
+
+/* TOC link default */
+.sidebar .nav-link,
+#toc .nav-link {
+  color: #752131 !important; /* dark red for text */
+}
+
+/* TOC hover */
+.sidebar .nav-link:hover,
+#toc .nav-link:hover {
+  color: #D4939C !important; /* light red */
+}
+
+/* TOC active section */
+.sidebar .nav-link.active,
+#toc .nav-link.active {
+  color: #D4939C !important;  /* consistent with navbar active */
+  font-weight: bold;
+}
+
+/* -----------------------------------------------------------
+   HAMBURGER
+   ----------------------------------------------------------- */
+/* Change hamburger (navbar toggler) icon color */
+.navbar-toggler-icon {
+  filter: invert(20%) sepia(60%) saturate(900%) hue-rotate(330deg) brightness(85%) contrast(95%);
+}
+
+/* -----------------------------------------------------------
+   GLOBAL LINKS (optional, if you want consistency)
+   ----------------------------------------------------------- */
+
+a {
+  color: #752131;
+}
+
+a:hover {
+  color: #D4939C;
+}
+

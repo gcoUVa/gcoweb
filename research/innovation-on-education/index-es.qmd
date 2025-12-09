@@ -1,6 +1,7 @@
 ---
 title: "Innovación en Educación"
-description: "Mejorando los procesos de enseñanza-aprendizaje"
+description: "Avances en los procesos de enseñanza-aprendizaje"
+lang: es
 image: "featured.jpg"
 listing: 
 - id: featured-news

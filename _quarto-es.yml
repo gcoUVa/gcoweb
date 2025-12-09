@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs/es
 
 website:
   title: "GCO-UVa"
@@ -24,6 +24,10 @@ website:
       - text: Noticias
         href: news-es.qmd
     right:
+      - text: Español
+        href: ../es
+      - text: English
+        href: ../en
       - icon: instagram
         href: https://www.instagram.com/gcouva/
       - icon: facebook
