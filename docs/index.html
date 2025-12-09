@@ -1,6 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <meta http-equiv="refresh" content="0; url=/en/" />
+  <meta charset="UTF-8">
+  <title>Redirigiendo...</title>
+  <!-- Redirección con JavaScript -->
+  <script>
+    // Reemplaza la página actual por /en/
+    window.location.replace("/en/");
+  </script>
+  <!-- Fallback para navegadores sin JS -->
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=/en/">
+  </noscript>
 </head>
+<body>
+  <p>Redirigiendo a <a href="/en/">/en/</a>…</p>
+</body>
 </html>
