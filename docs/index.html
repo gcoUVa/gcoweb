@@ -2,17 +2,41 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Redirigiendo...</title>
+  <title>Redirigiendo…</title>
+
+  <!-- No indexar esta página de redirección -->
+  <meta name="robots" content="noindex">
+
+  <!-- URL canónica de la página de destino -->
+  <link rel="canonical" href="en/">
+
   <script>
-    // Obtiene la base del repo desde la URL actual
-    const currentPath = window.location.pathname; // e.g., "/gcoweb/"
-    // Asegurarse de que termina con "/"
-    const basePath = currentPath.endsWith("/") ? currentPath : currentPath + "/";
-    // Redirige a "en/" dentro del mismo subdirectorio
-    window.location.replace(basePath + "en/");
+    (function() {
+      // Obtiene la URL completa actual
+      const currentUrl = window.location.href;
+      const currentOrigin = window.location.origin;
+      let pathname = window.location.pathname;
+
+      // Si termina en index.html, lo eliminamos
+      if (pathname.endsWith("index.html")) {
+        pathname = pathname.slice(0, -"index.html".length);
+      }
+
+      // Aseguramos que termine con "/"
+      if (!pathname.endsWith("/")) {
+        pathname += "/";
+      }
+
+      // Construimos la URL de redirección a "en/"
+      const redirectUrl = currentOrigin + pathname + "en/";
+
+      // Redirigimos reemplazando la URL actual
+      window.location.replace(redirectUrl);
+    })();
   </script>
+
   <noscript>
-    <!-- Fallback para navegadores sin JS -->
+    <!-- Fallback relativo si JS está deshabilitado -->
     <meta http-equiv="refresh" content="0; url=en/">
   </noscript>
 </head>
@@ -20,4 +44,3 @@
   <p>Redirigiendo a <a href="en/">en/</a>…</p>
 </body>
 </html>
-
