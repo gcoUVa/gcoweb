@@ -4,6 +4,7 @@ subtitle: "What's new"
 page-layout: full
 date-format: "YYYY-MM-DD"
 toc: false
+lang: es
 listing: 
 - id: news
   sort: "date desc"

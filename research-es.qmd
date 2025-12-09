@@ -1,11 +1,11 @@
 ---
-title: "Research"
-subtitle: "What we do"
+title: "Investigación"
+subtitle: "Lo que hacemos"
 toc: false
 listing:
 - id: research
   contents: 
-    - research/optical-networks/index.qmd
+    - research/optical-networks/index-es.qmd
     - research/vehicular-communications/index.qmd
     - research/radiocommunications/index.qmd
     - research/rehabilitation-technologies/index.qmd
