@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Avances en redes">
+<meta name="description" content="Nueva publicación en la revista Vehicular communications">
 
-<title>Redes ópticas – GCO-UVa</title>
+<title>Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas. – GCO-UVa</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,26 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,74 +68,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-featured-news .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-featured-news'] = new List('listing-featured-news', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Redes ópticas – GCO-UVa">
-<meta property="og:description" content="Avances en redes">
-<meta property="og:image" content="https://gcouva.github.io/gcoweb/research/optical-networks/featured.jpg">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas. – GCO-UVa">
+<meta property="og:description" content="Nueva publicación en la revista Vehicular communications">
+<meta property="og:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif">
 <meta property="og:site_name" content="GCO-UVa">
-<meta name="twitter:title" content="Redes ópticas – GCO-UVa">
-<meta name="twitter:description" content="Avances en redes">
-<meta name="twitter:image" content="https://gcouva.github.io/gcoweb/research/optical-networks/featured.jpg">
+<meta name="twitter:title" content="Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas. – GCO-UVa">
+<meta name="twitter:description" content="Nueva publicación en la revista Vehicular communications">
+<meta name="twitter:image" content="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -148,7 +88,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">GCO-UVa</span>
     </a>
   </div>
@@ -159,31 +99,31 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../people.html"> 
+    <a class="nav-link" href="../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../latest-projects.html"> 
+    <a class="nav-link" href="../latest-projects.html"> 
 <span class="menu-text">Latest projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../results.html"> 
+    <a class="nav-link" href="../results.html"> 
 <span class="menu-text">Results</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../awards.html"> 
+    <a class="nav-link" href="../awards.html"> 
 <span class="menu-text">Awards</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../news.html"> 
+    <a class="nav-link" href="../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
 </ul>
@@ -229,8 +169,7 @@ window.Quarto = {
     <h2 id="toc-title">En esta página</h2>
    
   <ul>
-  <li><a href="#resumen" id="toc-resumen" class="nav-link active" data-scroll-target="#resumen">Resumen</a></li>
-  <li><a href="#noticias-destacadas" id="toc-noticias-destacadas" class="nav-link" data-scroll-target="#noticias-destacadas">Noticias destacadas</a></li>
+  <li><a href="#nueva-publicación-en-vehicular-communications" id="toc-nueva-publicación-en-vehicular-communications" class="nav-link active" data-scroll-target="#nueva-publicación-en-vehicular-communications">Nueva publicación en Vehicular Communications</a></li>
   </ul>
 </nav>
     </div>
@@ -239,12 +178,18 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Redes ópticas</h1>
-</div>
+<h1 class="title">Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.</h1>
+<p class="subtitle lead">Nueva publicación</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Publicación</div>
+    <div class="quarto-category">Óptica</div>
+    <div class="quarto-category">Vehicular</div>
+  </div>
+  </div>
 
 <div>
   <div class="description">
-    Avances en redes
+    Nueva publicación en la revista <em>Vehicular communications</em>
   </div>
 </div>
 
@@ -252,6 +197,12 @@ window.Quarto = {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">1 de octubre de 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -261,74 +212,20 @@ window.Quarto = {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="featured.jpg" class="img-fluid figure-img"></p>
-<figcaption>Image generated by Perplexity Pro</figcaption>
-</figure>
+<section id="nueva-publicación-en-vehicular-communications" class="level2">
+<h2 class="anchored" data-anchor-id="nueva-publicación-en-vehicular-communications">Nueva publicación en Vehicular Communications</h2>
+<p>Acabamos de publicar un nuevo artículo:</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-2">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif" class="img-fluid"></p>
 </div>
-<section id="resumen" class="level2">
-<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
-<p>Optical networks are very nice.</p>
-</section>
-<section id="noticias-destacadas" class="level2">
-<h2 class="anchored" data-anchor-id="noticias-destacadas">Noticias destacadas</h2>
-<div id="listing-featured-news" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="UHVibGljYWNpJUMzJUIzbiUyQyVDMyU5M3B0aWNhJTJDVmVoaWN1bGFy" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1765306107122" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="331">
-<a href="../../news-es/2025-10-01-pub-optimizing-road-size.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.
-</h5>
-<div class="card-subtitle listing-subtitle">
-Nueva publicación
-</div>
-<div class="card-text listing-description delink">
-<p>Nueva publicación en la revista <em>Vehicular communications</em></p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-1 oct 2025
+<div class="g-col-12 g-col-md-10">
+<p><strong>Citation:</strong> Camilo Anzola-Rojas, Ignacio de Miguel, Noemí Merayo, Juan Carlos Aguado, Rubén M. Lorenzo, Ramón J. Durán Barroso, Optimizing road side units connectivity in intelligent transportation systems with optical network solutions, Vehicular Communications, Volume 56, 2025, 100975, ISSN 2214-2096, <a href="https://doi.org/10.1016/j.vehcom.2025.100975" class="uri">https://doi.org/10.1016/j.vehcom.2025.100975</a>. (<a href="https://www.sciencedirect.com/science/article/pii/S2214209625001020" class="uri">https://www.sciencedirect.com/science/article/pii/S2214209625001020</a>)</p>
 </div>
 </div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="UHJveWVjdG8lMkMlQzMlOTNwdGljYSUyQ1ZlaGljdWxhciUyQ1JhZGlvY29tdW5pY2FjaW9uZXM=" data-listing-date-sort="1737759600000">
-<a href="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/featured_hua39953f62025d471d2efbab9bf3003e1_200899_720x2500_fit_q90_h2_lanczos_3.webp" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Workshop C4CPS en VTC2025-Spring
-</h5>
-<div class="card-subtitle listing-subtitle">
-Organización de Workshop
-</div>
-<div class="card-text listing-description delink">
-<p>El profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-25 ene 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No hay resultados</div>
-</div>
-<p align="right">
-<a href="../../more-news-es.html#category=Óptica">More News »</a>
-</p>
+<p><strong>Abstract:</strong> A fundamental component of Intelligent Transportation Systems (ITS) is connectivity. For connected vehicles to be aware of events occurring nearby, or even far from them, roadside infrastructure is essential. Roadside Units (RSUs) are electronic equipment placed along highways to provide connectivity and share data with vehicles, other RSUs, and networks. Connected vehicles require wireless communication with RSUs; however, depending on the complexity of tasks and the number of users, spectrum resources may be insufficient to handle all required communication between vehicles, RSUs and external networks. Since RSUs are stationary, optical fiber is an ideal technology for interconnecting them and linking them to the Internet and the cloud, providing reliable, high-performance connectivity, with low signal attenuation and high bandwidth. This paper proposes a model for deploying fiber networks to connect RSUs, with a focus on minimizing capital expenditures, including costs for civil works, cables, and devices, which are critical considerations given the large distances involved. Specifically, we consider and compare two established optical network technologies: point-to-point (PtP) and passive optical networks (PON). To support this comparison, we present and test two novel Integer Linear Programming (ILP) formulations: one for PtP and one for PON. Additionally, we introduce a genetic algorithm that improves upon a previously proposed heuristic, achieving near-optimal results comparable to the ILP formulation, while efficiently solving large-scale scenarios. The results show that the optimal choice between PtP and PON depends on the deployment area and density of RSUs. Keywords: Networks; Optical fiber; Passive optical networks; Roadside units; Vehicles; Communications</p>
+<p><strong>Funding:</strong> This work was supported by Ministerio de Ciencia, Innovación y Universidades / Agencia Estatal de Investigación (Grants PID2023-148104OB-C41 and PID2020-112675RB-C42 funded by MICIU/AEI/10.13039/501100011033 and the former also by ERFD/EU, European Regional Development Fund/European Union)</p>
+<p><img src="..\files/images/funders/logo_miciu_ue_aei.jpg" class="img-fluid"></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -339,7 +236,6 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_x"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_microsoft_teams"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script defer="" src="https://static.addtoany.com/menu/page.js"></script>
-
 
 
 </section>

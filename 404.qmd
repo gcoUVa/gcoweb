@@ -1,8 +1,10 @@
 ---
-title: Page Not Found
+title: Page Not Found / Página no encontrada
 page-layout: full
 ---
 
 The page you requested cannot be found.
-
 You may want to try searching to find the page.
+
+No se encuentra la página que ha solicitado.
+Puede intentar buscar la página.

@@ -1,6 +1,6 @@
 ---
-title: "Results"
-subtitle: "Funding, projects, publications, PhD theses, patents and collaborations"
+title: "Resultados"
+subtitle: "Financiación, proyectos, publicaciones, tesis doctorales, patentes y colaboraciones."
 lang: es
 page-layout: full
 toc: false
@@ -13,7 +13,7 @@ listing:
   # max-items: 6
   image-height: 200px
   contents: 
-    - results.yml 
+    - results-es.yml 
 ---
 
 :::{#results}

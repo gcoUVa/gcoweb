@@ -1,7 +1,7 @@
 ---
-title: "People"
-subtitle: "Who we are"
-lang: en
+title: "Miembros"
+subtitle: "Quiénes somos"
+lang: es
 toc: true
 page-layout: full
 listing:
@@ -52,10 +52,10 @@ listing:
   grid-columns: 4
   image-height: 25px
   field-display-names: 
-      title: "Name"
-      subtitle: "Past role at GCO/Affiliation"
-      started: "Started"
-      ended: "Ended"
+      title: "Nombre"
+      subtitle: "Rol en el GCO/Afiliación"
+      started: "Comienzo"
+      ended: "Fin"
   contents: # More recent first
     - people/maryam-masoumi.yml 
     - people/soheil-hosseini.yml
@@ -68,22 +68,22 @@ format:
     link-external-newwindow: true
 ---
 
-## Professors/Researchers
+## Profesores/Investigadores
 
 :::{#lab-professors}
 :::
 
-## Researchers/Students
+## Investigadores/Estudiantes
 
 :::{#lab-researchers}
 :::
 
-## Technicians
+## Técnicos
 
 :::{#lab-technicians}
 :::
 
-## Alumni and Past Visitors
+## Antiguos Alumnos y Visitantes
 
 :::{#lab-alumni}
 :::

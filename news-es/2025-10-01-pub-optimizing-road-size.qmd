@@ -1,16 +1,17 @@
 ---
-title: "Optimizing road side units connectivity in intelligent transportation systems with optical network solutions"
-subtitle: "New publication"
+title: "Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas."
+subtitle: "Nueva publicación"
+lang: es
 image: https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif
-description: "New publication in the journal *Vehicular communications*"
-categories: [Publication, Optical, Vehicular]
+description: "Nueva publicación en la revista *Vehicular communications*"
+categories: [Publicación, Óptica, Vehicular]
 date: "2025-10-01"
 link-external-newwindow: true
 ---
 
-## New publication in Vehicular Communications
+## Nueva publicación en Vehicular Communications
 
-We have just published a new paper:
+Acabamos de publicar un nuevo artículo:
 
 
 :::: {.grid}

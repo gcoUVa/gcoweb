@@ -1,6 +1,7 @@
 ---
 title: "Optical Networks"
 description: "Advancing optical fiber telecommunication networks"
+lang: en
 image: "featured.jpg"
 listing: 
 - id: featured-news

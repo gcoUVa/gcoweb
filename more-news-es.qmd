@@ -1,9 +1,9 @@
 ---
-title: "News"
-subtitle: "What's new"
-lang: en
+title: "Noticias"
+subtitle: "Novedades del GCO"
 page-layout: full
 date-format: "YYYY-MM-DD"
+lang: es
 toc: false
 listing: 
 - id: news
@@ -22,8 +22,8 @@ listing:
   # Quizás haya que meter el news.yml en el directorio
   # news y poner aquí news/ y news/*.yml. Pendiente de
   # verificación
-    - news/
-    - news.yml
+    - news-es/
+    - news-es.yml
 ---
 
 

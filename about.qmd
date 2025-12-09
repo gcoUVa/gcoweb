@@ -1,6 +1,7 @@
 ---
 title: "About GCO"
 subtitle: "Research on Telecommunication Networks and Applications"
+lang: en
 page-layout: full
 ---
 

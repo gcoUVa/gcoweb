@@ -1,0 +1,28 @@
+---
+title: "Últimos proyectos"
+subtitle: "Proyectos de investigación financiados en curso o recientemente finalizados"
+lang: es
+page-layout: full
+toc: false
+listing: 
+- id: latest-projects
+  sort: 
+    - "ended desc"
+    - "started desc"
+  type: grid
+  fields: [image, title, subtitle, description]
+  grid-item-align: left
+  grid-columns: 3
+  max-items: 6
+  image-height: 200px
+  contents: 
+    - latest-projects-es.yml 
+---
+
+:::{#latest-projects}
+:::
+
+<p align="right">[Más proyectos »](https://portaldelaciencia.uva.es/grupos/10998/proyectos?lang=es)</p>
+
+<!--Include social share buttons-->
+{{< include /files/includes/_socialshare.qmd >}}

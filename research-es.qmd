@@ -1,15 +1,16 @@
 ---
 title: "Investigación"
 subtitle: "Lo que hacemos"
+lang: es
 toc: false
 listing:
 - id: research
   contents: 
     - research/optical-networks/index-es.qmd
-    - research/vehicular-communications/index.qmd
-    - research/radiocommunications/index.qmd
-    - research/rehabilitation-technologies/index.qmd
-    - research/innovation-on-education/index.qmd
+    - research/vehicular-communications/index-es.qmd
+    - research/radiocommunications/index-es.qmd
+    - research/rehabilitation-technologies/index-es.qmd
+    - research/innovation-on-education/index-es.qmd
   sort: false
   type: grid
   grid-columns: 3

@@ -1,6 +1,7 @@
 ---
 title: "Research"
 subtitle: "What we do"
+lang: en
 toc: false
 listing:
 - id: research

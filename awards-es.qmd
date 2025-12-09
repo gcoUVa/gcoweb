@@ -1,7 +1,7 @@
 ---
-title: "Awards"
-subtitle: "Recognitions for our work"
-lang: en
+title: "Premios"
+subtitle: "Reconocimientos por nuestro trabajo"
+lang: es
 page-layout: full
 date-format: "YYYY"
 toc: false
@@ -11,15 +11,15 @@ listing:
   type: table
   fields: [image, title, subtitle, author, date, description]
   field-display-names: 
-      title: "Award"
-      subtitle: "Type"
-      author: "Recipient"
+      title: "Premio"
+      subtitle: "Tipo"
+      author: "Galardonado"
   image-height: 50px
   categories: false
   sort-ui: true
   filter-ui: true
   contents: 
-    - awards.yml
+    - awards-es.yml
 ---
 
 

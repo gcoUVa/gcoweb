@@ -1,6 +1,7 @@
 ---
 title: "Acerca del GCO"
-subtitle: "Investigación en..."
+subtitle: "Investigación sobre redes y aplicaciones de telecomunicaciones"
+lang: es
 page-layout: full
 ---
 

@@ -1,0 +1,21 @@
+- image: /files/images/award.webp
+  title: "Segundo puesto en el concurso internacional Renault TwizyContest 2020."
+  subtitle: "Premio internacional"
+  path: https://www.uva.es
+  author: 
+    - One Student
+    - Another Student
+    - One Professor (Supervisor)  
+  description: Segundo puesto en el concurso internacional Renault TwizyContest 2020, en colaboración con Segula, «TwizyLine, plataforma inteligente de coche compartido con aparcamiento autónomo». Edición 2020.
+  date: "2025"
+
+- image: /files/images/award.webp
+  title: "Premio COIT-AEIT al mejor Trabajo Fin de Máster en Gestión, Economía y Regulación de las Telecomunicaciones 2016"
+  subtitle: "Premio nacional"
+  path: https://www.tel.uva.es/investigacion/noticias.htm?controlador(accion)=ver&controlador(tablon)=1147
+  author: 
+    - Sara Fernández Atienza
+    - Ignacio de Miguel (Supervisor)
+    - Ramón J. Durán (Supervisor)  
+  description: "COIT-AEIT Award for Best Master's Thesis in Telecommunications Management, Economics and Regulation, received by Sara Fernández Atienza for her thesis, entitled ’Sizing and Techno-Economic Analysis of Elastic Optical Networks. Supervisors: Dr. Ignacio de Miguel Jiménez and Dr. Ramón José Durán Barroso. Awarded by the Official Chamber of Telecommunications Engineers and the Spanish Association of Telecommunications Engineers (COIT/AEIT), 2016."
+  date: "2016"

@@ -1,0 +1,29 @@
+---
+title: "Acerca del GCO"
+subtitle: "Investigación sobre redes y aplicaciones de telecomunicaciones"
+lang: en
+page-layout: full
+---
+
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+PENDIENTE DE TRADUCIR
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+
+![Photo 1 of GCO-UVa members](/files/images/group.jpg)
+
+![Photo 2 of GCO-UVa members](/files/images/group.jpg)
+
+![Photo 3 of GCO-UVa members](/files/images/group.jpg)
+
+![Photo 4 of GCO-UVa members](/files/images/group.jpg)
+:::
+
+::::
+
