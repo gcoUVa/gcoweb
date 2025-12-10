@@ -2,5 +2,5 @@ project:
   type: website
 
 profile:
-  default: en
+  default: es
   group: [en, es]

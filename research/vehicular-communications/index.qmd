@@ -31,7 +31,7 @@ Vehicular communications are very nice.
 :::{#featured-news}
 :::
 
-<p align="right">[More News »](/more-news.qmd#category=Vehicular)</p>
+<p align="right">[More news »](/more-news.qmd#category=Vehicular)</p>
 
 
 <!--Include social share buttons-->

@@ -31,7 +31,7 @@ Rehabilitation technologies are very nice.
 :::{#featured-news}
 :::
 
-<p align="right">[More News »](/more-news.qmd#category=Rehabilitation)</p>
+<p align="right">[More news »](/more-news.qmd#category=Rehabilitation)</p>
 
 
 <!--Include social share buttons-->

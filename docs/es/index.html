@@ -80,8 +80,7 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 8,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
@@ -115,6 +114,62 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-news'] = new List('listing-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-research-es .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-research-es'] = new List('listing-research-es', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-news-es .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-news-es'] = new List('listing-news-es', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -194,7 +249,7 @@ window.Quarto = {
 <span class="menu-text">Investigación</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="./people-es.html"> 
 <span class="menu-text">Miembros</span></a>
   </li>  
   <li class="nav-item">
@@ -265,16 +320,16 @@ window.Quarto = {
 <div class="grid">
 <div class="g-col-12 g-col-md-7">
 <p align="center" style="font-size:30px; font-weight:bold;">
-Welcome to GCO-UVa Website
+Bienvenidos al sitio web del GCO-UVa
 </p>
 <p align="center" style="font-size:24px;">
-Research on Telecommunication Networks and Applications
+Investigación en Redes de Telecomunicaciones y Aplicaciones
 </p>
 <p align="center" style="font-size:24px;">
-Universidad de Valladolid (Spain)
+Universidad de Valladolid (España)
 </p>
 <div class="button">
-<p><a href="./about.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 1em;">Learn more</a></p>
+<p><a href="./about.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 1em;">Conoce más</a></p>
 </div>
 </div>
 <div class="g-col-12 g-col-md-5">
@@ -286,22 +341,22 @@ Universidad de Valladolid (Spain)
 <div class="background-frame alt-background">
 <div class="content-block">
 <p align="center" style="font-size:36px; font-weight:bold;">
-News
+Noticias
 </p>
-<div id="listing-news" class="quarto-listing quarto-listing-container-grid">
+<div id="listing-news-es" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UHVibGljYXRpb24lMkNPcHRpY2FsJTJDVmVoaWN1bGFy" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1765308853665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
-<a href="./news/2025-10-01-pub-optimizing-road-size.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="UHVibGljYWNpJUMzJUIzbiUyQyVDMyU5M3B0aWNhJTJDVmVoaWN1bGFy" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1765319569547" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="331">
+<a href="./news-es/2025-10-01-pub-optimizing-road-size-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Optimizing road side units connectivity in intelligent transportation systems with optical network solutions
+Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.
 </h5>
 <div class="card-subtitle listing-subtitle">
-New publication
+Nueva publicación
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -311,7 +366,7 @@ Oct 1, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UHJvamVjdCUyQ09wdGljYWwlMkNWZWhpY3VsYXIlMkNSYWRpb2NvbW11bmljYXRpb25z" data-listing-date-sort="1737759600000">
+<div class="g-col-1" data-index="1" data-categories="UHJveWVjdG8lMkMlQzMlOTNwdGljYSUyQ1ZlaGljdWxhciUyQ1JhZGlvY29tdW5pY2FjaW9uZXM=" data-listing-date-sort="1737759600000">
 <a href="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -319,10 +374,10 @@ Oct 1, 2025
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-C4CPS Workshop at VTC2025-Spring
+Workshop C4CPS en VTC2025-Spring
 </h5>
 <div class="card-subtitle listing-subtitle">
-Workshop organization
+Organización de Workshop
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -332,7 +387,7 @@ Jan 25, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="UHJvamVjdCUyQ09wdGljYWwlMkNWZWhpY3VsYXI=" data-listing-date-sort="1733266800000">
+<div class="g-col-1" data-index="2" data-categories="UHJveWVjdG8lMkMlQzMlOTNwdGljYSUyQ1ZlaGljdWxhcg==" data-listing-date-sort="1733266800000">
 <a href="https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -340,10 +395,10 @@ Jan 25, 2025
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-MICIU/AEI grants awarded to ONOFRE-4
+Subvenciones MICIU/AEI concedidas a ONOFRE-4
 </h5>
 <div class="card-subtitle listing-subtitle">
-Research Project Update
+Novedades de proyecto de investigación
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -357,7 +412,7 @@ Dec 4, 2024
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <div class="button">
-<p><a href="./more-news.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">More news</a></p>
+<p><a href="./more-news-es.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">Más noticias</a></p>
 </div>
 </div>
 </div>
@@ -366,9 +421,9 @@ Dec 4, 2024
 <p align="center" style="font-size:36px; font-weight:bold;">
 Research lines
 </p>
-<div id="listing-research" class="quarto-listing quarto-listing-container-grid">
+<div id="listing-research-es" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <a href="./research/optical-networks/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -381,20 +436,7 @@ Redes ópticas
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./research/optical-networks/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./research/optical-networks/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Optical Networks
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1765319569558" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1765392725933" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <a href="./research/vehicular-communications/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -407,20 +449,7 @@ Comunicaciones Vehiculares
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1765319569563" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./research/vehicular-communications/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./research/vehicular-communications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Vehicular Communications
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
 <a href="./research/radiocommunications/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -433,20 +462,7 @@ Radiocomunicaciones
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
-<a href="./research/radiocommunications/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./research/radiocommunications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Radiocommunications
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1765319569558" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <a href="./research/rehabilitation-technologies/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -459,15 +475,15 @@ Tecnologías de Rehabilitación
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1765319569558" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./research/rehabilitation-technologies/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="./research/innovation-on-education/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./research/rehabilitation-technologies/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research/innovation-on-education/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Rehabilitation Technologies
+Innovación en Educación
 </h5>
 </div>
 </div></a>
@@ -476,7 +492,7 @@ Rehabilitation Technologies
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <div class="button">
-<p><a href="./research.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">Explore more</a></p>
+<p><a href="./research-es.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">Explora más</a></p>
 </div>
 </div>
 </div>
@@ -890,7 +906,143 @@ Rehabilitation Technologies
     }
   });
   </script>
-</div> <!-- /content -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-research">
+<div class="list grid quarto-listing-cols-4">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<a href="./research/optical-networks/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./research/optical-networks/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Optical Networks
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1765392725933" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<a href="./research/vehicular-communications/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./research/vehicular-communications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Vehicular Communications
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
+<a href="./research/radiocommunications/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./research/radiocommunications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Radiocommunications
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1765392725933" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<a href="./research/rehabilitation-technologies/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./research/rehabilitation-technologies/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rehabilitation Technologies
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
+<a href="./research/innovation-on-education/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./research/innovation-on-education/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Innovation on Education
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div><div class="quarto-listing quarto-listing-container-grid" id="listing-news">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UHVibGljYXRpb24lMkNPcHRpY2FsJTJDVmVoaWN1bGFy" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1765308853665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
+<a href="./news/2025-10-01-pub-optimizing-road-size.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Optimizing road side units connectivity in intelligent transportation systems with optical network solutions
+</h5>
+<div class="card-subtitle listing-subtitle">
+New publication
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 1, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UHJvamVjdCUyQ09wdGljYWwlMkNWZWhpY3VsYXIlMkNSYWRpb2NvbW11bmljYXRpb25z" data-listing-date-sort="1737759600000">
+<a href="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/featured_hua39953f62025d471d2efbab9bf3003e1_200899_720x2500_fit_q90_h2_lanczos_3.webp" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+C4CPS Workshop at VTC2025-Spring
+</h5>
+<div class="card-subtitle listing-subtitle">
+Workshop organization
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 25, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="UHJvamVjdCUyQ09wdGljYWwlMkNWZWhpY3VsYXI=" data-listing-date-sort="1733266800000">
+<a href="https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/featured_huc42becb747592e49adedbc9dc8a230a7_516970_720x2500_fit_q90_h2_lanczos_3.webp" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+MICIU/AEI grants awarded to ONOFRE-4
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Project Update
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 4, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
@@ -898,7 +1050,7 @@ Rehabilitation Technologies
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Website developed thanks to funding by Consejería de Educación de la Junta de Castilla y León for hiring of technical research support staff, cofinanced by the European Union. Website build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> provided by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+<p>Sitio web desarrollado gracias a la financiación de la Consejería de Educación de la Junta de Castilla y León para la contratación de personal técnico de apoyo a la investigación, cofinanciado por la Unión Europea. Sitio web creado a partir de la plantilla <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> proporcionada por el <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>.</p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

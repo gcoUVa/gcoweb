@@ -26,7 +26,7 @@ listing:
 :::{#news}
 :::
 
-<p align="right">[More News »](/more-news.qmd)</p>
+<p align="right">[More news »](/more-news.qmd)</p>
 
 <!--Include social share buttons-->
 

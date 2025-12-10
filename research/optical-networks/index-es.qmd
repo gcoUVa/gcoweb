@@ -31,7 +31,7 @@ Optical networks are very nice.
 :::{#featured-news}
 :::
 
-<p align="right">[Más Noticias »](/more-news-es.qmd#category=Óptica)</p>
+<p align="right">[Más noticias »](/more-news-es.qmd#category=Óptica)</p>
 
 
 <!--Include social share buttons-->

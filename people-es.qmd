@@ -12,17 +12,17 @@ listing:
   grid-columns: 4
   image-height: 200px
   contents: 
-    - people/evaristo-abril.yml
-    - people/ruben-lorenzo.yml
-    - people/patricia-fernandez.yml
-    - people/ramon-duran.yml
-    - people/ignacio-demiguel.yml
-    - people/noemi-merayo.yml
-    - people/juancarlos-aguado.yml
-    - people/alfonso-bahillo.yml
-    - people/alonso-alonso.yml
-    - people/juan-blas.yml
-    - people/ramon-delarosa.yml
+    - people/evaristo-abril-es.yml
+    - people/ruben-lorenzo-es.yml
+    - people/patricia-fernandez-es.yml
+    - people/ramon-duran-es.yml
+    - people/ignacio-demiguel-es.yml
+    - people/noemi-merayo-es.yml
+    - people/juancarlos-aguado-es.yml
+    - people/alfonso-bahillo-es.yml
+    - people/alonso-alonso-es.yml
+    - people/juan-blas-es.yml
+    - people/ramon-delarosa-es.yml
 
 - id: lab-researchers
   type: grid
@@ -31,10 +31,10 @@ listing:
   grid-columns: 4
   image-height: 200px
   contents: 
-    - people/camilo-anzola.yml
-    - people/kanwal-janjua.yml
-    - people/miguel-silva.yml
-    - people/marco-villa.yml
+    - people/camilo-anzola-es.yml
+    - people/kanwal-janjua-es.yml
+    - people/miguel-silva-es.yml
+    - people/marco-villa-es.yml
     
 - id: lab-technicians
   type: grid
@@ -43,7 +43,7 @@ listing:
   grid-columns: 4
   image-height: 200px
   contents: 
-    - people/wanda-deleon.yml
+    - people/wanda-deleon-es.yml
 
 - id: lab-alumni
   type: table
@@ -57,9 +57,9 @@ listing:
       started: "Comienzo"
       ended: "Fin"
   contents: # More recent first
-    - people/maryam-masoumi.yml 
-    - people/soheil-hosseini.yml
-    - people/lidia-ruiz.yml   
+    - people/maryam-masoumi-es.yml 
+    - people/soheil-hosseini-es.yml
+    - people/lidia-ruiz-es.yml   
 
 page-navigation: false
 

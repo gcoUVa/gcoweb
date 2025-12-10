@@ -11,13 +11,13 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-7}
 
 
-The **Optical Communications Group (GCO)** at **[Universidad de Valladolid](https://www.uva.es)** has carried out, since its creation, extensive activity in the field of basic research on optical components, later expanding into the **design of optical networks**, and more recently addressing other areas such as **radio communications**, **vehicular communications** and **wireless localization systems**. Thus, new lines of work have progressively opened in various areas. 
+El **Grupo de Comunicaciones Ópticas (GCO)** de la **[Universidad de Valladolid](https://www.uva.es)** ha llevado a cabo, desde su creación, una amplia actividad en el campo de la investigación básica sobre componentes ópticos, ampliándose posteriormente al **diseño de redes ópticas** y, más recientemente, abordando otras áreas como las **comunicaciones por radio**, **las comunicaciones vehiculares** y los **sistemas de localización inalámbrica**. Así, se han ido abriendo progresivamente nuevas líneas de trabajo en diversas áreas. 
 
-The group currently works in five core areas: **optical communication networks**, **vehicular communications**, **radio communications**, **rehabilitation technologies**, and **educational innovation**. In this regard, the group has always been concerned with researching improvements in **teaching–learning processes**, developing various projects focused on educational support software and the improvement of teaching materials.
+Actualmente, el grupo trabaja en cinco áreas principales: **redes de comunicaciones ópticas**, **comunicaciones vehiculares**, **comunicaciones por radio**, **tecnologías de rehabilitación** e **innovación educativa**. En este sentido, el grupo siempre se ha preocupado por investigar mejoras en los **procesos de enseñanza-aprendizaje**, desarrollando diversos proyectos centrados en software de apoyo educativo y la mejora de los materiales didácticos.
 
-**Contact:** Prof. Evaristo J. Abril: <ejabril@tel.uva.es>
+**Contacto:** Prof. Evaristo J. Abril: <ejabril@tel.uva.es>
 
-<p align="right">[More details »](/more-about.qmd)</p>
+<p align="right">[Más detalles »](/more-about-es.qmd)</p>
 
 :::
 
