@@ -99,7 +99,7 @@ listing:
 <p align="center" style="font-size:24px;">Universidad de Valladolid (España)</p>
 
 ::: {.button}
-[Conoce más](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+[Conoce más](about-es.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
 :::
 :::::
 
