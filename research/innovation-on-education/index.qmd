@@ -14,7 +14,6 @@ listing:
   max-items: 2
   contents: 
     - ../../../news/
-    - ../../../news.yml
   include: 
     categories: "Education"
 ---
