@@ -160,7 +160,7 @@ listing:
 :::::
 
 ::::: {.content-visible when-profile="es"}
-<p align="center" style="font-size:36px; font-weight:bold;">Research lines</p>
+<p align="center" style="font-size:36px; font-weight:bold;">Líneas de investigación</p>
 
 :::{#research-es}
 :::
