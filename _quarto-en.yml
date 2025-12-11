@@ -3,6 +3,7 @@ project:
   output-dir: docs/en
   render:
     - "*.qmd"
+    - "news/*.qmd"
     - "!*-es.qmd"   # Do not render files in Spanish
     - "!news-es"   # Do not render news folder in Spanish
     - "!research-es" # Do not render research folder in Spanish
