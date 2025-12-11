@@ -13,7 +13,7 @@ $endMarker   = '<!-- /content -->'
 $linesArr = Get-Content -Encoding UTF8 $FilePath
 
 # Buscar líneas exactas
-$startLine = ($linesArr | Select-String -SimpleMatch $startMarker).LineNumber
+$startLine = ($linesArr | Select-String -SimpleMatch $startMarker).LineNumber - 1
 $endLine   = ($linesArr | Select-String -SimpleMatch $endMarker).LineNumber - 1
 
 if ($startLine -lt 0) {
@@ -36,7 +36,7 @@ $after  = $linesArr[$endLine .. ($linesArr.Count - 1)]
 # Verificación de coherencia de divs antes del marcador final
 $checkText = ($before + $after[0]) -join "`n"
 
-$openCount  = ([regex]::Matches($checkText, "<div(\s|>)")).Count
+$openCount  = ([regex]::Matches($checkText, "<div(\s|>)")).Count + 1
 $closeCount = ([regex]::Matches($checkText, "</div>")).Count
 
 if ($openCount -ne $closeCount) {

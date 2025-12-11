@@ -36,7 +36,7 @@ $after  = $linesArr[$endLine .. ($linesArr.Count - 1)]
 # Verificación de coherencia de divs antes del marcador final
 $checkText = ($before + $after[0]) -join "`n"
 
-$openCount  = ([regex]::Matches($checkText, "<div(\s|>)")).Count
+$openCount  = ([regex]::Matches($checkText, "<div(\s|>)")).Count + 1
 $closeCount = ([regex]::Matches($checkText, "</div>")).Count
 
 if ($openCount -ne $closeCount) {
