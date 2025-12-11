@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs/es
+  post-render:
+    - limpiar_portada.ts docs/es
 
 website:
   title: "GCO-UVa"
