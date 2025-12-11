@@ -88,13 +88,3 @@ format:
 :::{#lab-alumni}
 :::
 
-<!--
-## Collaborators
-
-We are fortunate to have collaborated with many researchers and practitioners. Please visit their websites to learn more about their amazing work.
-
-:::{#lab-collaborator}
-:::
-
-
--->

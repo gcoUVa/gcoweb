@@ -1,10 +1,9 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/180978/detalle?lang=en
-      image: /files/headshots/alonso-alonso.jpg
-      title: "Alonso ALONSO"
-      lastname: "Alonso"
-      #started: "Dec 2024"
-      #ended: "Aug 2025" 
-      subtitle: "Associate Professor"
-      categories: [Director, Professor] 
+- path: https://portaldelaciencia.uva.es/investigadores/180978/detalle?lang=en
+  image: /images/headshots/alonso-alonso.jpg
+  title: "Alonso ALONSO"
+  lastname: "Alonso"
+  subtitle: "Associate Professor"
+  #started: "Dec 2024"
+  #ended: "Aug 2025" 
 # [Coordinator, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

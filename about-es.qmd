@@ -24,7 +24,7 @@ Actualmente, el grupo trabaja en cinco áreas principales: **redes de comunicaci
 
 ::: {.g-col-12 .g-col-md-5}
 
-![Photo of GCO-UVa members](/files/images/group.jpg)
+![Photo of GCO-UVa members](/images/group/group.jpg)
 
 :::
 

@@ -1,10 +1,9 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/180030/detalle?lang=en
-      image: /files/headshots/patricia-fernandez.jpg
-      title: "Patricia FERNÁNDEZ"
-      lastname: "Fernández"
-      #started: "Dec 2024"
-      #ended: "Aug 2025" 
-      subtitle: "Full Professor"
-      categories: [Professor] 
+- path: https://portaldelaciencia.uva.es/investigadores/180030/detalle?lang=en
+  image: /images/headshots/patricia-fernandez.jpg
+  title: "Patricia FERNÁNDEZ"
+  lastname: "Fernández"
+  subtitle: "Full Professor"
+  #started: "Dec 2024"
+  #ended: "Aug 2025" 
 # [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

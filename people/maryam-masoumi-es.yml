@@ -1,0 +1,9 @@
+- path: https://portaldelaciencia.uva.es/investigadores/258279/detalle?lang=en
+  image: /images/headshots/maryam-masoumi.jpg
+  title: "Maryam MASOUMI"
+  lastname: "Masoumi"
+  subtitle: "Doctoranda"
+  started: "2021"
+  ended: "2025" 
+# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
+# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

@@ -1,10 +1,9 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/179233/detalle?lang=en
-      image: /files/headshots/juancarlos-aguado.png
-      title: "Juan Carlos AGUADO"
-      lastname: "Aguado"
-      #started: "Dec 2024"
-      #ended: "Aug 2025" 
-      subtitle: "Associate Professor"
-      categories: [Professor] 
+- path: https://portaldelaciencia.uva.es/investigadores/179233/detalle?lang=en
+  image: /images/headshots/juancarlos-aguado.png
+  title: "Juan Carlos AGUADO"
+  lastname: "Aguado"
+  subtitle: "Associate Professor"
+  #started: "Dec 2024"
+  #ended: "Aug 2025" 
 # [Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

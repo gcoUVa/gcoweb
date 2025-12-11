@@ -26,13 +26,13 @@ Members of the group participate in several scientific and professional societie
 
 ::: {.g-col-12 .g-col-md-5}
 
-![Photo 1 of GCO-UVa members](/files/images/group.jpg)
+![Photo 1 of GCO-UVa members](/images/group/group.jpg)
 
-![Photo 2 of GCO-UVa members](/files/images/group.jpg)
+![Photo 2 of GCO-UVa members](/images/group/group.jpg)
 
-![Photo 3 of GCO-UVa members](/files/images/group.jpg)
+![Photo 3 of GCO-UVa members](/images/group/group.jpg)
 
-![Photo 4 of GCO-UVa members](/files/images/group.jpg)
+![Photo 4 of GCO-UVa members](/images/group/group.jpg)
 :::
 
 ::::

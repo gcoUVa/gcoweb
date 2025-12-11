@@ -16,13 +16,13 @@ PENDIENTE DE TRADUCIR
 
 ::: {.g-col-12 .g-col-md-5}
 
-![Photo 1 of GCO-UVa members](/files/images/group.jpg)
+![Foto 1 del GCO-UVa](/images/group/group.jpg)
 
-![Photo 2 of GCO-UVa members](/files/images/group.jpg)
+![Foto 2 del GCO-UVa](/images/group/group.jpg)
 
-![Photo 3 of GCO-UVa members](/files/images/group.jpg)
+![Foto 3 del GCO-UVa](/images/group/group.jpg)
 
-![Photo 4 of GCO-UVa members](/files/images/group.jpg)
+![Foto 4 del GCO-UVa](/images/group/group.jpg)
 :::
 
 ::::

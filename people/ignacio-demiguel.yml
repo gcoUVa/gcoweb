@@ -1,10 +1,7 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/180700/detalle?lang=en
-      image: /files/headshots/ignacio-demiguel.jpg
-      title: "Ignacio DE MIGUEL"
-      lastname: "de Miguel"
-      #started: "Dec 2024"
-      #ended: "Aug 2025" 
-      subtitle: "Full Professor"
-      categories: [Professor] 
+- path: https://portaldelaciencia.uva.es/investigadores/180700/detalle?lang=en
+  image: /images/headshots/ignacio-demiguel.jpg
+  title: "Ignacio DE MIGUEL"
+  lastname: "de Miguel"
+  subtitle: "Full Professor"
 # [Coordinator, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

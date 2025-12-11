@@ -1,0 +1,9 @@
+- path: https://portaldelaciencia.uva.es/investigadores/258366/detalle?lang=en
+  image: /images/headshots/soheil-hosseini.jpg
+  title: "Soheil HOSSEINI"
+  lastname: "Hosseini"
+  subtitle: "Doctorando"
+  started: "2021"
+  ended: "2025" 
+# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
+# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

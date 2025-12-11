@@ -10,7 +10,8 @@
   {
     "listing": "/research/optical-networks/index.html",
     "items": [
-      "/news/2025-10-01-pub-optimizing-road-size.html"
+      "/news/251001-pub-optimizing-road-size.html",
+      "/news/241204-onofre4-grants.html"
     ]
   },
   {
@@ -26,7 +27,9 @@
   {
     "listing": "/more-news.html",
     "items": [
-      "/news/2025-10-01-pub-optimizing-road-size.html"
+      "/news/251001-pub-optimizing-road-size.html",
+      "/news/250125-C4CPS-workshop.html",
+      "/news/241204-onofre4-grants.html"
     ]
   },
   {
@@ -45,13 +48,17 @@
       "/research/radiocommunications/index.html",
       "/research/rehabilitation-technologies/index.html",
       "/research/innovation-on-education/index.html",
-      "/news/2025-10-01-pub-optimizing-road-size.html"
+      "/news/251001-pub-optimizing-road-size.html",
+      "/news/250125-C4CPS-workshop.html",
+      "/news/241204-onofre4-grants.html"
     ]
   },
   {
     "listing": "/news.html",
     "items": [
-      "/news/2025-10-01-pub-optimizing-road-size.html"
+      "/news/251001-pub-optimizing-road-size.html",
+      "/news/250125-C4CPS-workshop.html",
+      "/news/241204-onofre4-grants.html"
     ]
   },
   {
@@ -69,7 +76,9 @@
   {
     "listing": "/research/vehicular-communications/index.html",
     "items": [
-      "/news/2025-10-01-pub-optimizing-road-size.html"
+      "/news/251001-pub-optimizing-road-size.html",
+      "/news/250125-C4CPS-workshop.html",
+      "/news/241204-onofre4-grants.html"
     ]
   }
 ]

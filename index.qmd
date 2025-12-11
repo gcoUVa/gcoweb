@@ -38,7 +38,6 @@ listing:
   page-size: 3
   contents: 
     - news
-    - news/news.yml
 
 - id: research-es
   contents: 
@@ -71,7 +70,6 @@ listing:
   page-size: 3
   contents: 
     - news-es
-    - news-es/news-es.yml
 
 ---
 
@@ -106,7 +104,7 @@ listing:
 :::
 
 ::: {.g-col-12 .g-col-md-5}
-[![](/files/images/logogco_transparente.png)](about.qmd){fig-align="center"}
+[![](//images/logogco_transparente.png)](about.qmd){fig-align="center"}
 :::
 
 :::

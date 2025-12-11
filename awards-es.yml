@@ -1,4 +1,4 @@
-- image: /files/images/award.webp
+- image: /images/awards/award.webp
   title: "Segundo puesto en el concurso internacional Renault TwizyContest 2020."
   subtitle: "Premio internacional"
   path: https://www.castillayleoneconomica.es/el-equipo-de-la-universidad-de-valladolid-consigue-el-segundo-premio-en-la-final-internacion/
@@ -9,7 +9,7 @@
   description: Segundo puesto en el concurso internacional Renault TwizyContest 2020, en colaboración con Segula, «TwizyLine, plataforma inteligente de coche compartido con aparcamiento autónomo». Edición 2020.
   date: "2025"
 
-- image: /files/images/award.webp
+- image: /images/awards/award.webp
   title: "Premio COIT-AEIT al mejor Trabajo Fin de Máster en Gestión, Economía y Regulación de las Telecomunicaciones 2016"
   subtitle: "Premio nacional"
   path: https://www.tel.uva.es/investigacion/noticias.htm?controlador(accion)=ver&controlador(tablon)=1147

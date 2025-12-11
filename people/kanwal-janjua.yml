@@ -1,10 +1,9 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/988309/detalle?lang=en
-      image: /files/headshots/kanwal-janjua.jpg
-      title: "Hafiza Kanwal JANJUA"
-      lastname: "Janjua"
-      started: "2021"
-      ended: "" 
-      subtitle: "PhD Student"
-      categories: [PhD Student] 
+- path: https://portaldelaciencia.uva.es/investigadores/988309/detalle?lang=en
+  image: /images/headshots/kanwal-janjua.jpg
+  title: "Hafiza Kanwal JANJUA"
+  lastname: "Janjua"
+  subtitle: "PhD Student"
+  #started: "2021"
+  #ended: "" 
 # [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

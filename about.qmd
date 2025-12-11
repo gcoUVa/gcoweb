@@ -24,7 +24,7 @@ The group currently works in five core areas: **optical communication networks**
 
 ::: {.g-col-12 .g-col-md-5}
 
-![Photo of GCO-UVa members](/files/images/group.jpg)
+![Photo of GCO-UVa members](/images/group/group.jpg)
 
 :::
 

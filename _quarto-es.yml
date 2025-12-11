@@ -6,14 +6,13 @@ project:
     - "*-es.qmd"
     - "!news"   # Do not render news folder in English
     - "!research" # Do not render research folder in English
-  #post-render: limpiar_portada.ts docs/es
 
 website:
   title: "GCO-UVa"
   description: "GCO-UVa: Grupo de Comunicaciones Ópticas de la Universidad de Valladolid (España)."
   navbar:
     # title: false    # Do not display title
-    # logo: /files/images/logogco.jpg   # Display logo
+    # logo: /images/logogco.jpg   # Display logo
     left:
       - text: Acerca de
         href: about-es.qmd

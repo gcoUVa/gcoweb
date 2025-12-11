@@ -14,12 +14,7 @@ listing:
   max-items: 3
   image-height: 200px
   contents: 
-  # Hay que verificar si ordena bien por la mezcla
-  # Quizás haya que meter el news.yml en el directorio
-  # news y poner aquí news/ y news/*.yml. Pendiente de
-  # verificación
     - news-es
-    - news-es/news-es.yml
 ---
 
 
@@ -30,4 +25,4 @@ listing:
 
 <!--Include social share buttons-->
 
-{{< include /files/includes/_socialshare.qmd >}}
+{{< include /includes/_socialshare.qmd >}}

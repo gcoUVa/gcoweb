@@ -1,10 +1,9 @@
-    - path: http://www.uva.es
-      image: /files/headshots/wanda-deleon.jpeg
-      title: "Wanda DE LEÓN"
-      lastname: "de León"
-      #started: "Dec 2024"
-      #ended: "Aug 2025" 
-      subtitle: "Research Support Officer"
-      categories: [Technician] 
+- path: http://www.uva.es
+  image: /images/headshots/wanda-deleon.jpeg
+  title: "Wanda DE LEÓN"
+  lastname: "de León"
+  subtitle: "Research Support Officer"
+  #started: "Dec 2024"
+  #ended: "Aug 2025" 
 # [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

@@ -1,10 +1,9 @@
-    - path: https://portaldelaciencia.uva.es/investigadores/179712/detalle?lang=en
-      image: /files/headshots/evaristo-abril.jpg
-      title: "Evaristo J. ABRIL"
-      lastname: "Abril"
-      #started: "Dec 2024"
-      #ended: "Aug 2025" 
-      subtitle: "Full Professor, Coordinator"
-      categories: [Coordinator, Professor] 
+- path: https://portaldelaciencia.uva.es/investigadores/179712/detalle?lang=en
+  image: /images/headshots/evaristo-abril.jpg
+  title: "Evaristo J. ABRIL"
+  lastname: "Abril"
+  subtitle: "Full Professor, Coordinator"
+  #started: "Dec 2024"
+  #ended: "Aug 2025"  
 # [Coordinator, Professor] [Professor] [PhD Student][Professor][Master's Student]
 # [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 

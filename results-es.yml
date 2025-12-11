@@ -1,31 +1,31 @@
 
 - path: https://portalcienciaytecnologia.jcyl.es/financiaciones?grupoId=25337
-  image: /files/images/funding.jpg
+  image: /images/results/funding.jpg
   title: "FINANCIACIÓN<br> (proyectos, contratos...)"
   subtitle: "(Se abre en una nueva pestaña)"
    
 - path: https://portaldelaciencia.uva.es/grupos/10998/proyectos
-  image: /files/images/research-projects.jpg
+  image: /images/results/research-projects.jpg
   title: "Lista de PROYECTOS DE INVESTIGACIÓN<br> (actuales y anteriores)"
   subtitle: "(Se abre en una nueva pestaña)"
 
 - path: https://portaldelaciencia.uva.es/grupos/10998/publicaciones
-  image: /files/images/publications.jpg
+  image: /images/results/publications.jpg
   title: "Lista de PUBLICACIONES<br> (estadísticas y artículos)"
   subtitle: "(Se abre en una nueva pestaña)"
 
 - path: https://portaldelaciencia.uva.es/grupos/10998/tesis
-  image: /files/images/phd-theses.jpg
+  image: /images/results/phd-theses.jpg
   title: "Lista de TESIS DOCTORALES"
   subtitle: "(Se abre en una nueva pestaña)"
 
 - path: https://portaldelaciencia.uva.es/grupos/10998/patentes
-  image: /files/images/patents.jpg
+  image: /images/results/patents.jpg
   title: "Lista de PATENTES"
   subtitle: "(Se abre en una nueva pestaña)"
 
 - path: https://portaldelaciencia.uva.es/grupos/10998/colaboracion
-  image: /files/images/collaborations.jpg
+  image: /images/results/collaborations.jpg
   title: "Lista de COLABORACIONES<br> (investigadores e instituciones)"
   subtitle: "(Se abre en una nueva pestaña)"
 
