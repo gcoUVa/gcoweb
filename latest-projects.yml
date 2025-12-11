@@ -1,6 +1,6 @@
 
-- path: /images/projects/onofre4.png
-  image: https://onofre4.tel.uva.es/media/logo_huc42becb747592e49adedbc9dc8a230a7_516970_0x100_resize_lanczos_3.png
+- path: https://onofre4.tel.uva.es
+  image: /images/projects/onofre4.png
   title: "ONOFRE-4: Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility"
   subtitle: "National project (2024-2027)"
   description: "Efficient planning and management of networks equipped with computing resources, providing support for connected, reliable and secure mobility."

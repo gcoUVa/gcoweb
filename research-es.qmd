@@ -6,12 +6,8 @@ toc: false
 listing:
 - id: research
   contents: 
-    - research-es/optical-networks
-    - research-es/vehicular-communications
-    - research-es/radiocommunications
-    - research-es/rehabilitation-technologies
-    - research-es/innovation-on-education
-  sort: false
+    - research-es
+  sort: "order asc"
   type: grid
   grid-columns: 3
   image-height: 200px

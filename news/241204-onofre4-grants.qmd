@@ -12,3 +12,7 @@ link-external-newwindow: true
 More details: <https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/>
 
 ![](https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/featured_huc42becb747592e49adedbc9dc8a230a7_516970_720x2500_fit_q90_h2_lanczos_3.webp)
+
+<!--Include social share buttons-->
+
+{{< include /files-includes/_socialshare.qmd >}}

@@ -1,122 +1,80 @@
 [
   {
-    "objectID": "news-es/251001-pub-optimizing-road-size.html",
-    "href": "news-es/251001-pub-optimizing-road-size.html",
-    "title": "Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.",
+    "objectID": "results-es.html",
+    "href": "results-es.html",
+    "title": "Resultados",
     "section": "",
-    "text": "Acabamos de publicar un nuevo artículo:\n\n\n\n\n\nCitation: Camilo Anzola-Rojas, Ignacio de Miguel, Noemí Merayo, Juan Carlos Aguado, Rubén M. Lorenzo, Ramón J. Durán Barroso, Optimizing road side units connectivity in intelligent transportation systems with optical network solutions, Vehicular Communications, Volume 56, 2025, 100975, ISSN 2214-2096, https://doi.org/10.1016/j.vehcom.2025.100975. (https://www.sciencedirect.com/science/article/pii/S2214209625001020)\n\n\nAbstract: A fundamental component of Intelligent Transportation Systems (ITS) is connectivity. For connected vehicles to be aware of events occurring nearby, or even far from them, roadside infrastructure is essential. Roadside Units (RSUs) are electronic equipment placed along highways to provide connectivity and share data with vehicles, other RSUs, and networks. Connected vehicles require wireless communication with RSUs; however, depending on the complexity of tasks and the number of users, spectrum resources may be insufficient to handle all required communication between vehicles, RSUs and external networks. Since RSUs are stationary, optical fiber is an ideal technology for interconnecting them and linking them to the Internet and the cloud, providing reliable, high-performance connectivity, with low signal attenuation and high bandwidth. This paper proposes a model for deploying fiber networks to connect RSUs, with a focus on minimizing capital expenditures, including costs for civil works, cables, and devices, which are critical considerations given the large distances involved. Specifically, we consider and compare two established optical network technologies: point-to-point (PtP) and passive optical networks (PON). To support this comparison, we present and test two novel Integer Linear Programming (ILP) formulations: one for PtP and one for PON. Additionally, we introduce a genetic algorithm that improves upon a previously proposed heuristic, achieving near-optimal results comparable to the ILP formulation, while efficiently solving large-scale scenarios. The results show that the optimal choice between PtP and PON depends on the deployment area and density of RSUs. Keywords: Networks; Optical fiber; Passive optical networks; Roadside units; Vehicles; Communications\nFunding: This work was supported by Ministerio de Ciencia, Innovación y Universidades / Agencia Estatal de Investigación (Grants PID2023-148104OB-C41 and PID2020-112675RB-C42 funded by MICIU/AEI/10.13039/501100011033 and the former also by ERFD/EU, European Regional Development Fund/European Union)"
+    "text": "FINANCIACIÓN (proyectos, contratos…)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de PROYECTOS DE INVESTIGACIÓN (actuales y anteriores)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de PUBLICACIONES (estadísticas y artículos)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de TESIS DOCTORALES\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de PATENTES\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de COLABORACIONES (investigadores e instituciones)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "news-es/251001-pub-optimizing-road-size.html#nueva-publicación-en-vehicular-communications",
-    "href": "news-es/251001-pub-optimizing-road-size.html#nueva-publicación-en-vehicular-communications",
-    "title": "Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.",
-    "section": "",
-    "text": "Acabamos de publicar un nuevo artículo:\n\n\n\n\n\nCitation: Camilo Anzola-Rojas, Ignacio de Miguel, Noemí Merayo, Juan Carlos Aguado, Rubén M. Lorenzo, Ramón J. Durán Barroso, Optimizing road side units connectivity in intelligent transportation systems with optical network solutions, Vehicular Communications, Volume 56, 2025, 100975, ISSN 2214-2096, https://doi.org/10.1016/j.vehcom.2025.100975. (https://www.sciencedirect.com/science/article/pii/S2214209625001020)\n\n\nAbstract: A fundamental component of Intelligent Transportation Systems (ITS) is connectivity. For connected vehicles to be aware of events occurring nearby, or even far from them, roadside infrastructure is essential. Roadside Units (RSUs) are electronic equipment placed along highways to provide connectivity and share data with vehicles, other RSUs, and networks. Connected vehicles require wireless communication with RSUs; however, depending on the complexity of tasks and the number of users, spectrum resources may be insufficient to handle all required communication between vehicles, RSUs and external networks. Since RSUs are stationary, optical fiber is an ideal technology for interconnecting them and linking them to the Internet and the cloud, providing reliable, high-performance connectivity, with low signal attenuation and high bandwidth. This paper proposes a model for deploying fiber networks to connect RSUs, with a focus on minimizing capital expenditures, including costs for civil works, cables, and devices, which are critical considerations given the large distances involved. Specifically, we consider and compare two established optical network technologies: point-to-point (PtP) and passive optical networks (PON). To support this comparison, we present and test two novel Integer Linear Programming (ILP) formulations: one for PtP and one for PON. Additionally, we introduce a genetic algorithm that improves upon a previously proposed heuristic, achieving near-optimal results comparable to the ILP formulation, while efficiently solving large-scale scenarios. The results show that the optimal choice between PtP and PON depends on the deployment area and density of RSUs. Keywords: Networks; Optical fiber; Passive optical networks; Roadside units; Vehicles; Communications\nFunding: This work was supported by Ministerio de Ciencia, Innovación y Universidades / Agencia Estatal de Investigación (Grants PID2023-148104OB-C41 and PID2020-112675RB-C42 funded by MICIU/AEI/10.13039/501100011033 and the former also by ERFD/EU, European Regional Development Fund/European Union)"
-  },
-  {
-    "objectID": "news-es/241204-onofre4-grants.html",
-    "href": "news-es/241204-onofre4-grants.html",
-    "title": "Subvenciones MICIU/AEI concedidas a ONOFRE-4",
-    "section": "",
-    "text": "Más información: https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/"
-  },
-  {
-    "objectID": "research-es/vehicular-communications/index-es.html",
-    "href": "research-es/vehicular-communications/index-es.html",
-    "title": "Comunicaciones Vehiculares",
+    "objectID": "research-es/rehabilitation-technologies-es.html",
+    "href": "research-es/rehabilitation-technologies-es.html",
+    "title": "Tecnologías de Rehabilitación",
     "section": "",
     "text": "Image generated by Perplexity Pro"
   },
   {
-    "objectID": "research-es/vehicular-communications/index-es.html#visión-general",
-    "href": "research-es/vehicular-communications/index-es.html#visión-general",
-    "title": "Comunicaciones Vehiculares",
+    "objectID": "research-es/rehabilitation-technologies-es.html#visión-general",
+    "href": "research-es/rehabilitation-technologies-es.html#visión-general",
+    "title": "Tecnologías de Rehabilitación",
     "section": "Visión general",
-    "text": "Visión general\nVehicular communications are very nice."
+    "text": "Visión general\nRehabilitation technologies are very nice."
   },
   {
-    "objectID": "research-es/vehicular-communications/index-es.html#noticias-destacadas",
-    "href": "research-es/vehicular-communications/index-es.html#noticias-destacadas",
-    "title": "Comunicaciones Vehiculares",
-    "section": "Noticias destacadas",
-    "text": "Noticias destacadas\n\n\n\n\n\n\n\n\n\n\nOptimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.\n\n\nNueva publicación\n\n\nNueva publicación en la revista Vehicular communications\n\n\n\n1 oct 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
-  },
-  {
-    "objectID": "research-es/radiocommunications/index-es.html",
-    "href": "research-es/radiocommunications/index-es.html",
-    "title": "Radiocomunicaciones",
-    "section": "",
-    "text": "Image generated by Perplexity Pro"
-  },
-  {
-    "objectID": "research-es/radiocommunications/index-es.html#visión-general",
-    "href": "research-es/radiocommunications/index-es.html#visión-general",
-    "title": "Radiocomunicaciones",
-    "section": "Visión general",
-    "text": "Visión general\nRadiocommunications are very nice."
-  },
-  {
-    "objectID": "research-es/radiocommunications/index-es.html#noticias-destacadas",
-    "href": "research-es/radiocommunications/index-es.html#noticias-destacadas",
-    "title": "Radiocomunicaciones",
-    "section": "Noticias destacadas",
-    "text": "Noticias destacadas\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
-  },
-  {
-    "objectID": "research-es/innovation-on-education/index-es.html",
-    "href": "research-es/innovation-on-education/index-es.html",
-    "title": "Innovación en Educación",
-    "section": "",
-    "text": "Image generated by Perplexity Pro"
-  },
-  {
-    "objectID": "research-es/innovation-on-education/index-es.html#visión-general",
-    "href": "research-es/innovation-on-education/index-es.html#visión-general",
-    "title": "Innovación en Educación",
-    "section": "Visión general",
-    "text": "Visión general\nPENDIENTE DE TRADUCIR"
-  },
-  {
-    "objectID": "research-es/innovation-on-education/index-es.html#noticias-destacadas",
-    "href": "research-es/innovation-on-education/index-es.html#noticias-destacadas",
-    "title": "Innovación en Educación",
+    "objectID": "research-es/rehabilitation-technologies-es.html#noticias-destacadas",
+    "href": "research-es/rehabilitation-technologies-es.html#noticias-destacadas",
+    "title": "Tecnologías de Rehabilitación",
     "section": "Noticias destacadas",
     "text": "Noticias destacadas\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
   },
   {
-    "objectID": "people-es.html",
-    "href": "people-es.html",
-    "title": "Miembros",
+    "objectID": "research-es/optical-networks-es.html",
+    "href": "research-es/optical-networks-es.html",
+    "title": "Redes ópticas",
     "section": "",
-    "text": "Catedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrática\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesora Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Contratado Doctor\n\n\n\n\n\nNo hay resultados"
+    "text": "Image generated by Perplexity Pro"
   },
   {
-    "objectID": "people-es.html#profesoresinvestigadores",
-    "href": "people-es.html#profesoresinvestigadores",
-    "title": "Miembros",
+    "objectID": "research-es/optical-networks-es.html#visión-general",
+    "href": "research-es/optical-networks-es.html#visión-general",
+    "title": "Redes ópticas",
+    "section": "Visión general",
+    "text": "Visión general\nOptical networks are very nice."
+  },
+  {
+    "objectID": "research-es/optical-networks-es.html#noticias-destacadas",
+    "href": "research-es/optical-networks-es.html#noticias-destacadas",
+    "title": "Redes ópticas",
+    "section": "Noticias destacadas",
+    "text": "Noticias destacadas\n\n\n\n\n\n\n\n\n\n\nOptimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.\n\n\nNueva publicación\n\n\nNueva publicación en la revista Vehicular communications\n\n\n\n1 oct 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
+  },
+  {
+    "objectID": "research-es.html",
+    "href": "research-es.html",
+    "title": "Investigación",
     "section": "",
-    "text": "Catedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrática\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesora Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Contratado Doctor\n\n\n\n\n\nNo hay resultados"
+    "text": "Redes ópticas\n\n\nAvances en redes\n\n\n\n\n\n\n\n\n\n\n\n\nComunicaciones Vehiculares\n\n\nAvances en Comunicaciones Vehiculares\n\n\n\n\n\n\n\n\n\n\n\n\nRadiocomunicaciones\n\n\nAvances en radiocomunicaciones\n\n\n\n\n\n\n\n\n\n\n\n\nTecnologías de Rehabilitación\n\n\nAvances en Tecnologías de Rehabilitación\n\n\n\n\n\n\n\n\n\n\n\n\nInnovación en Educación\n\n\nAvances en los procesos de enseñanza-aprendizaje\n\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "people-es.html#investigadoresestudiantes",
-    "href": "people-es.html#investigadoresestudiantes",
-    "title": "Miembros",
-    "section": "Investigadores/Estudiantes",
-    "text": "Investigadores/Estudiantes\n\n\n\n\n\n\n\n\n\n\nCamilo ANZOLA-ROJAS\n\n\nDoctorando\n\n\n\n\n\n\n\n\n\n\n\n\nHafiza Kanwal JANJUA\n\n\nDoctoranda\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel A. SILVA\n\n\nDoctorando\n\n\n\n\n\n\n\n\n\n\n\n\nMarco A. VILLA\n\n\nDoctorando\n\n\n\n\n\nNo hay resultados"
+    "objectID": "news-es/251001-pub-optimizing-road-size-es.html",
+    "href": "news-es/251001-pub-optimizing-road-size-es.html",
+    "title": "Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.",
+    "section": "",
+    "text": "Acabamos de publicar un nuevo artículo:\n\n\n\n\n\nCitation: Camilo Anzola-Rojas, Ignacio de Miguel, Noemí Merayo, Juan Carlos Aguado, Rubén M. Lorenzo, Ramón J. Durán Barroso, Optimizing road side units connectivity in intelligent transportation systems with optical network solutions, Vehicular Communications, Volume 56, 2025, 100975, ISSN 2214-2096, https://doi.org/10.1016/j.vehcom.2025.100975. (https://www.sciencedirect.com/science/article/pii/S2214209625001020)\n\n\nAbstract: A fundamental component of Intelligent Transportation Systems (ITS) is connectivity. For connected vehicles to be aware of events occurring nearby, or even far from them, roadside infrastructure is essential. Roadside Units (RSUs) are electronic equipment placed along highways to provide connectivity and share data with vehicles, other RSUs, and networks. Connected vehicles require wireless communication with RSUs; however, depending on the complexity of tasks and the number of users, spectrum resources may be insufficient to handle all required communication between vehicles, RSUs and external networks. Since RSUs are stationary, optical fiber is an ideal technology for interconnecting them and linking them to the Internet and the cloud, providing reliable, high-performance connectivity, with low signal attenuation and high bandwidth. This paper proposes a model for deploying fiber networks to connect RSUs, with a focus on minimizing capital expenditures, including costs for civil works, cables, and devices, which are critical considerations given the large distances involved. Specifically, we consider and compare two established optical network technologies: point-to-point (PtP) and passive optical networks (PON). To support this comparison, we present and test two novel Integer Linear Programming (ILP) formulations: one for PtP and one for PON. Additionally, we introduce a genetic algorithm that improves upon a previously proposed heuristic, achieving near-optimal results comparable to the ILP formulation, while efficiently solving large-scale scenarios. The results show that the optimal choice between PtP and PON depends on the deployment area and density of RSUs. Keywords: Networks; Optical fiber; Passive optical networks; Roadside units; Vehicles; Communications\nFunding: This work was supported by Ministerio de Ciencia, Innovación y Universidades / Agencia Estatal de Investigación (Grants PID2023-148104OB-C41 and PID2020-112675RB-C42 funded by MICIU/AEI/10.13039/501100011033 and the former also by ERFD/EU, European Regional Development Fund/European Union)"
   },
   {
-    "objectID": "people-es.html#personal-técnico",
-    "href": "people-es.html#personal-técnico",
-    "title": "Miembros",
-    "section": "Personal Técnico",
-    "text": "Personal Técnico\n\n\n\n\n\n\n\n\n\n\nWanda DE LEÓN\n\n\nTécnico de Apoyo a la Investigación\n\n\n\n\n\nNo hay resultados"
+    "objectID": "news-es/251001-pub-optimizing-road-size-es.html#nueva-publicación-en-vehicular-communications",
+    "href": "news-es/251001-pub-optimizing-road-size-es.html#nueva-publicación-en-vehicular-communications",
+    "title": "Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.",
+    "section": "",
+    "text": "Acabamos de publicar un nuevo artículo:\n\n\n\n\n\nCitation: Camilo Anzola-Rojas, Ignacio de Miguel, Noemí Merayo, Juan Carlos Aguado, Rubén M. Lorenzo, Ramón J. Durán Barroso, Optimizing road side units connectivity in intelligent transportation systems with optical network solutions, Vehicular Communications, Volume 56, 2025, 100975, ISSN 2214-2096, https://doi.org/10.1016/j.vehcom.2025.100975. (https://www.sciencedirect.com/science/article/pii/S2214209625001020)\n\n\nAbstract: A fundamental component of Intelligent Transportation Systems (ITS) is connectivity. For connected vehicles to be aware of events occurring nearby, or even far from them, roadside infrastructure is essential. Roadside Units (RSUs) are electronic equipment placed along highways to provide connectivity and share data with vehicles, other RSUs, and networks. Connected vehicles require wireless communication with RSUs; however, depending on the complexity of tasks and the number of users, spectrum resources may be insufficient to handle all required communication between vehicles, RSUs and external networks. Since RSUs are stationary, optical fiber is an ideal technology for interconnecting them and linking them to the Internet and the cloud, providing reliable, high-performance connectivity, with low signal attenuation and high bandwidth. This paper proposes a model for deploying fiber networks to connect RSUs, with a focus on minimizing capital expenditures, including costs for civil works, cables, and devices, which are critical considerations given the large distances involved. Specifically, we consider and compare two established optical network technologies: point-to-point (PtP) and passive optical networks (PON). To support this comparison, we present and test two novel Integer Linear Programming (ILP) formulations: one for PtP and one for PON. Additionally, we introduce a genetic algorithm that improves upon a previously proposed heuristic, achieving near-optimal results comparable to the ILP formulation, while efficiently solving large-scale scenarios. The results show that the optimal choice between PtP and PON depends on the deployment area and density of RSUs. Keywords: Networks; Optical fiber; Passive optical networks; Roadside units; Vehicles; Communications\nFunding: This work was supported by Ministerio de Ciencia, Innovación y Universidades / Agencia Estatal de Investigación (Grants PID2023-148104OB-C41 and PID2020-112675RB-C42 funded by MICIU/AEI/10.13039/501100011033 and the former also by ERFD/EU, European Regional Development Fund/European Union)"
   },
   {
-    "objectID": "people-es.html#antiguos-alumnos-y-visitantes",
-    "href": "people-es.html#antiguos-alumnos-y-visitantes",
-    "title": "Miembros",
-    "section": "Antiguos Alumnos y Visitantes",
-    "text": "Antiguos Alumnos y Visitantes\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n      \n      \n        Nombre\n      \n      \n        Rol en el GCO/Afiliación\n      \n      \n        Comienzo\n      \n      \n        Fin\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nNombre\n\n\n\nRol en el GCO/Afiliación\n\n\n\nComienzo\n\n\n\nFin\n\n\n\n\n\n\n\n\n\n\n\nMaryam MASOUMI\n\n\nDoctoranda\n\n\n2021\n\n\n2025\n\n\n\n\n\n\n\n\n\nSoheil HOSSEINI\n\n\nDoctorando\n\n\n2021\n\n\n2025\n\n\n\n\n\n\n\n\n\nLidia RUIZ\n\n\nDoctoranda y Postdoc\n\n\n \n\n\n \n\n\n\n\n\n\nNo hay resultados"
+    "objectID": "news-es/241204-onofre4-grants-es.html",
+    "href": "news-es/241204-onofre4-grants-es.html",
+    "title": "Subvenciones MICIU/AEI concedidas a ONOFRE-4",
+    "section": "",
+    "text": "Más información: https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/"
   },
   {
     "objectID": "more-news-es.html",
@@ -161,66 +119,108 @@
     "text": "Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.\n\n\nNueva publicación\n\n\nNueva publicación en la revista Vehicular communications\n\n\n\n1 oct 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSubvenciones MICIU/AEI concedidas a ONOFRE-4\n\n\nNovedades de proyecto de investigación\n\n\nEl 4 de diciembre de 2024, la página web de la Agencia Estatal de Investigación publicó la orden por la que se conceden las ayudas correspondientes a la convocatoria 2023 de…\n\n\n\n4 dic 2024\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
   },
   {
-    "objectID": "research-es.html",
-    "href": "research-es.html",
-    "title": "Investigación",
+    "objectID": "news-es/250125-C4CPS-workshop-es.html",
+    "href": "news-es/250125-C4CPS-workshop-es.html",
+    "title": "Workshop C4CPS en VTC2025-Spring",
     "section": "",
-    "text": "Redes ópticas\n\n\nAvances en redes\n\n\n\n\n\n\n\n\n\n\n\n\nComunicaciones Vehiculares\n\n\nAvances en Comunicaciones Vehiculares\n\n\n\n\n\n\n\n\n\n\n\n\nRadiocomunicaciones\n\n\nAvances en radiocomunicaciones\n\n\n\n\n\n\n\n\n\n\n\n\nTecnologías de Rehabilitación\n\n\nAvances en Tecnologías de Rehabilitación\n\n\n\n\n\n\n\n\n\n\n\n\nInnovación en Educación\n\n\nAvances en los procesos de enseñanza-aprendizaje\n\n\n\n\n\nNo hay resultados"
+    "text": "Más información: https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/"
   },
   {
-    "objectID": "research-es/optical-networks/index-es.html",
-    "href": "research-es/optical-networks/index-es.html",
-    "title": "Redes ópticas",
+    "objectID": "people-es.html",
+    "href": "people-es.html",
+    "title": "Miembros",
+    "section": "",
+    "text": "Catedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrática\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesora Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Contratado Doctor\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "people-es.html#profesoresinvestigadores",
+    "href": "people-es.html#profesoresinvestigadores",
+    "title": "Miembros",
+    "section": "",
+    "text": "Catedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático, Coordinador\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrática\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nCatedrático\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesora Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Titular\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfesor Contratado Doctor\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "people-es.html#investigadoresestudiantes",
+    "href": "people-es.html#investigadoresestudiantes",
+    "title": "Miembros",
+    "section": "Investigadores/Estudiantes",
+    "text": "Investigadores/Estudiantes\n\n\n\n\n\n\n\n\n\n\nCamilo ANZOLA-ROJAS\n\n\nDoctorando\n\n\n\n\n\n\n\n\n\n\n\n\nHafiza Kanwal JANJUA\n\n\nDoctoranda\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel A. SILVA\n\n\nDoctorando\n\n\n\n\n\n\n\n\n\n\n\n\nMarco A. VILLA\n\n\nDoctorando\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "people-es.html#personal-técnico",
+    "href": "people-es.html#personal-técnico",
+    "title": "Miembros",
+    "section": "Personal Técnico",
+    "text": "Personal Técnico\n\n\n\n\n\n\n\n\n\n\nWanda DE LEÓN\n\n\nTécnico de Apoyo a la Investigación\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "people-es.html#antiguos-alumnos-y-visitantes",
+    "href": "people-es.html#antiguos-alumnos-y-visitantes",
+    "title": "Miembros",
+    "section": "Antiguos Alumnos y Visitantes",
+    "text": "Antiguos Alumnos y Visitantes\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n      \n      \n        Nombre\n      \n      \n        Rol en el GCO/Afiliación\n      \n      \n        Comienzo\n      \n      \n        Fin\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nNombre\n\n\n\nRol en el GCO/Afiliación\n\n\n\nComienzo\n\n\n\nFin\n\n\n\n\n\n\n\n\n\n\n\nMaryam MASOUMI\n\n\nDoctoranda\n\n\n2021\n\n\n2025\n\n\n\n\n\n\n\n\n\nSoheil HOSSEINI\n\n\nDoctorando\n\n\n2021\n\n\n2025\n\n\n\n\n\n\n\n\n\nLidia RUIZ\n\n\nDoctoranda y Postdoc\n\n\n \n\n\n \n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "research-es/innovation-on-education-es.html",
+    "href": "research-es/innovation-on-education-es.html",
+    "title": "Innovación en Educación",
     "section": "",
     "text": "Image generated by Perplexity Pro"
   },
   {
-    "objectID": "research-es/optical-networks/index-es.html#visión-general",
-    "href": "research-es/optical-networks/index-es.html#visión-general",
-    "title": "Redes ópticas",
+    "objectID": "research-es/innovation-on-education-es.html#visión-general",
+    "href": "research-es/innovation-on-education-es.html#visión-general",
+    "title": "Innovación en Educación",
     "section": "Visión general",
-    "text": "Visión general\nOptical networks are very nice."
+    "text": "Visión general\nPENDIENTE DE TRADUCIR"
   },
   {
-    "objectID": "research-es/optical-networks/index-es.html#noticias-destacadas",
-    "href": "research-es/optical-networks/index-es.html#noticias-destacadas",
-    "title": "Redes ópticas",
-    "section": "Noticias destacadas",
-    "text": "Noticias destacadas\n\n\n\n\n\n\n\n\n\n\nOptimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.\n\n\nNueva publicación\n\n\nNueva publicación en la revista Vehicular communications\n\n\n\n1 oct 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
-  },
-  {
-    "objectID": "research-es/rehabilitation-technologies/index-es.html",
-    "href": "research-es/rehabilitation-technologies/index-es.html",
-    "title": "Tecnologías de Rehabilitación",
-    "section": "",
-    "text": "Image generated by Perplexity Pro"
-  },
-  {
-    "objectID": "research-es/rehabilitation-technologies/index-es.html#visión-general",
-    "href": "research-es/rehabilitation-technologies/index-es.html#visión-general",
-    "title": "Tecnologías de Rehabilitación",
-    "section": "Visión general",
-    "text": "Visión general\nRehabilitation technologies are very nice."
-  },
-  {
-    "objectID": "research-es/rehabilitation-technologies/index-es.html#noticias-destacadas",
-    "href": "research-es/rehabilitation-technologies/index-es.html#noticias-destacadas",
-    "title": "Tecnologías de Rehabilitación",
+    "objectID": "research-es/innovation-on-education-es.html#noticias-destacadas",
+    "href": "research-es/innovation-on-education-es.html#noticias-destacadas",
+    "title": "Innovación en Educación",
     "section": "Noticias destacadas",
     "text": "Noticias destacadas\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
   },
   {
-    "objectID": "results-es.html",
-    "href": "results-es.html",
-    "title": "Resultados",
+    "objectID": "research-es/radiocommunications-es.html",
+    "href": "research-es/radiocommunications-es.html",
+    "title": "Radiocomunicaciones",
     "section": "",
-    "text": "FINANCIACIÓN (proyectos, contratos…)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de PROYECTOS DE INVESTIGACIÓN (actuales y anteriores)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de PUBLICACIONES (estadísticas y artículos)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de TESIS DOCTORALES\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de PATENTES\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\n\n\n\n\n\n\n\nLista de COLABORACIONES (investigadores e instituciones)\n\n\n(Se abre en una nueva pestaña)\n\n\n\n\n\nNo hay resultados"
+    "text": "Image generated by Perplexity Pro"
   },
   {
-    "objectID": "news-es/250125-C4CPS-workshop.html",
-    "href": "news-es/250125-C4CPS-workshop.html",
-    "title": "Workshop C4CPS en VTC2025-Spring",
+    "objectID": "research-es/radiocommunications-es.html#visión-general",
+    "href": "research-es/radiocommunications-es.html#visión-general",
+    "title": "Radiocomunicaciones",
+    "section": "Visión general",
+    "text": "Visión general\nRadiocommunications are very nice."
+  },
+  {
+    "objectID": "research-es/radiocommunications-es.html#noticias-destacadas",
+    "href": "research-es/radiocommunications-es.html#noticias-destacadas",
+    "title": "Radiocomunicaciones",
+    "section": "Noticias destacadas",
+    "text": "Noticias destacadas\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
+  },
+  {
+    "objectID": "research-es/vehicular-communications-es.html",
+    "href": "research-es/vehicular-communications-es.html",
+    "title": "Comunicaciones Vehiculares",
     "section": "",
-    "text": "Más información: https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/"
+    "text": "Image generated by Perplexity Pro"
+  },
+  {
+    "objectID": "research-es/vehicular-communications-es.html#visión-general",
+    "href": "research-es/vehicular-communications-es.html#visión-general",
+    "title": "Comunicaciones Vehiculares",
+    "section": "Visión general",
+    "text": "Visión general\nVehicular communications are very nice."
+  },
+  {
+    "objectID": "research-es/vehicular-communications-es.html#noticias-destacadas",
+    "href": "research-es/vehicular-communications-es.html#noticias-destacadas",
+    "title": "Comunicaciones Vehiculares",
+    "section": "Noticias destacadas",
+    "text": "Noticias destacadas\n\n\n\n\n\n\n\n\n\n\nOptimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.\n\n\nNueva publicación\n\n\nNueva publicación en la revista Vehicular communications\n\n\n\n1 oct 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop C4CPS en VTC2025-Spring\n\n\nOrganización de Workshop\n\n\nEl profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…\n\n\n\n25 ene 2025\n\n\n\n\n\n\nNo hay resultados\n\n\nMás noticias »"
   }
 ]

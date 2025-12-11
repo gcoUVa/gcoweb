@@ -5,10 +5,14 @@ lang: en
 image: https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/featured_hua39953f62025d471d2efbab9bf3003e1_200899_720x2500_fit_q90_h2_lanczos_3.webp
 description: "Prof. Ramón J. Durán Barroso (from the UVa team at ONOFRE-4), along Estefanía Coronado and Estela Carmona-Cejudo (i2CAT) and other collaborators, is co-organizing the IEEE Workshop on Converged Communication, Computing, and Control for Next-Generation Cyber-Physical Systems (C4CPS) at the 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring). VTC2025-Spring will be held in Oslo, Norway, 17 - 20 June 2025. This semi-annual flagship conference of IEEE Vehicular Technology Society will bring together individuals from academia, government, and industry to discuss and exchange ideas in the fields of wireless, mobile and vehicular technology."
 date: "2025-01-25"
-categories: [Proyecto, Óptica, Vehicular, Radiocomunicaciones]
+categories: [Project, Optical, Vehicular, Radiocommunications]
 link-external-newwindow: true
 ---
 
 More details: <https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/>
 
 ![](https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/featured_hua39953f62025d471d2efbab9bf3003e1_200899_720x2500_fit_q90_h2_lanczos_3.webp)
+
+<!--Include social share buttons-->
+
+{{< include /files-includes/_socialshare.qmd >}}

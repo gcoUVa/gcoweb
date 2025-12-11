@@ -5,5 +5,9 @@
   subtitle: "Doctorando"
   #started: "2020"
   #ended: "" 
-# [Director, Professor] [Professor] [PhD Student][Professor][Master's Student]
-# [Undergraduate][Visiting Scholar][Visiting Student][Highschool Student] 
+# [Coordinator][Full Professor][Associate Professor][Assistant Professor]
+# [PhD Student][Master's Student][Undergraduate]
+# [Visiting Scholar][Visiting Student]
+# [Coordinador][Catedrático][Profesor Titular][Profesor Contratado Doctor]
+# [Doctorando][Estudiante de Máster][Estudiante de Grado]
+# [Profesor Visitante][Estudiante Visitante]

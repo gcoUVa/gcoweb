@@ -1,32 +1,36 @@
 [
   {
-    "listing": "/research-es/vehicular-communications/index-es.html",
-    "items": [
-      "/news-es/251001-pub-optimizing-road-size.html",
-      "/news-es/250125-C4CPS-workshop.html",
-      "/news-es/241204-onofre4-grants.html"
-    ]
-  },
-  {
-    "listing": "/research-es/radiocommunications/index-es.html",
-    "items": [
-      "/news-es/250125-C4CPS-workshop.html"
-    ]
-  },
-  {
-    "listing": "/research-es/innovation-on-education/index-es.html",
+    "listing": "/results-es.html",
     "items": []
   },
   {
-    "listing": "/people-es.html",
+    "listing": "/research-es/rehabilitation-technologies-es.html",
     "items": []
+  },
+  {
+    "listing": "/research-es/optical-networks-es.html",
+    "items": [
+      "/news-es/251001-pub-optimizing-road-size-es.html",
+      "/news-es/250125-C4CPS-workshop-es.html",
+      "/news-es/241204-onofre4-grants-es.html"
+    ]
+  },
+  {
+    "listing": "/research-es.html",
+    "items": [
+      "/research-es/optical-networks-es.html",
+      "/research-es/vehicular-communications-es.html",
+      "/research-es/radiocommunications-es.html",
+      "/research-es/rehabilitation-technologies-es.html",
+      "/research-es/innovation-on-education-es.html"
+    ]
   },
   {
     "listing": "/more-news-es.html",
     "items": [
-      "/news-es/251001-pub-optimizing-road-size.html",
-      "/news-es/250125-C4CPS-workshop.html",
-      "/news-es/241204-onofre4-grants.html"
+      "/news-es/251001-pub-optimizing-road-size-es.html",
+      "/news-es/250125-C4CPS-workshop-es.html",
+      "/news-es/241204-onofre4-grants-es.html"
     ]
   },
   {
@@ -36,14 +40,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/research-es/optical-networks/index-es.html",
-      "/research-es/vehicular-communications/index-es.html",
-      "/research-es/radiocommunications/index-es.html",
-      "/research-es/rehabilitation-technologies/index-es.html",
-      "/research-es/innovation-on-education/index-es.html",
-      "/news-es/251001-pub-optimizing-road-size.html",
-      "/news-es/250125-C4CPS-workshop.html",
-      "/news-es/241204-onofre4-grants.html"
+      "/research-es/optical-networks-es.html",
+      "/research-es/vehicular-communications-es.html",
+      "/research-es/radiocommunications-es.html",
+      "/research-es/rehabilitation-technologies-es.html",
+      "/research-es/innovation-on-education-es.html",
+      "/news-es/251001-pub-optimizing-road-size-es.html",
+      "/news-es/250125-C4CPS-workshop-es.html",
+      "/news-es/241204-onofre4-grants-es.html"
     ]
   },
   {
@@ -53,35 +57,31 @@
   {
     "listing": "/news-es.html",
     "items": [
-      "/news-es/251001-pub-optimizing-road-size.html",
-      "/news-es/250125-C4CPS-workshop.html",
-      "/news-es/241204-onofre4-grants.html"
+      "/news-es/251001-pub-optimizing-road-size-es.html",
+      "/news-es/250125-C4CPS-workshop-es.html",
+      "/news-es/241204-onofre4-grants-es.html"
     ]
   },
   {
-    "listing": "/research-es.html",
-    "items": [
-      "/research-es/optical-networks/index-es.html",
-      "/research-es/vehicular-communications/index-es.html",
-      "/research-es/radiocommunications/index-es.html",
-      "/research-es/rehabilitation-technologies/index-es.html",
-      "/research-es/innovation-on-education/index-es.html"
-    ]
-  },
-  {
-    "listing": "/research-es/optical-networks/index-es.html",
-    "items": [
-      "/news-es/251001-pub-optimizing-road-size.html",
-      "/news-es/250125-C4CPS-workshop.html",
-      "/news-es/241204-onofre4-grants.html"
-    ]
-  },
-  {
-    "listing": "/research-es/rehabilitation-technologies/index-es.html",
+    "listing": "/people-es.html",
     "items": []
   },
   {
-    "listing": "/results-es.html",
+    "listing": "/research-es/innovation-on-education-es.html",
     "items": []
+  },
+  {
+    "listing": "/research-es/radiocommunications-es.html",
+    "items": [
+      "/news-es/250125-C4CPS-workshop-es.html"
+    ]
+  },
+  {
+    "listing": "/research-es/vehicular-communications-es.html",
+    "items": [
+      "/news-es/251001-pub-optimizing-road-size-es.html",
+      "/news-es/250125-C4CPS-workshop-es.html",
+      "/news-es/241204-onofre4-grants-es.html"
+    ]
   }
 ]

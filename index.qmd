@@ -9,12 +9,8 @@ page-layout: custom
 listing:
 - id: research
   contents: 
-    - research/optical-networks
-    - research/vehicular-communications
-    - research/radiocommunications
-    - research/rehabilitation-technologies
-    - research/innovation-on-education
-  sort: false
+    - research
+  sort: "order asc"
   type: grid
   grid-columns: 4
   max-items: 8
@@ -41,12 +37,8 @@ listing:
 
 - id: research-es
   contents: 
-    - research-es/optical-networks
-    - research-es/vehicular-communications
-    - research-es/radiocommunications
-    - research-es/rehabilitation-technologies
-    - research-es/innovation-on-education
-  sort: false
+    - research-es
+  sort: "order asc"
   type: grid
   grid-columns: 4
   max-items: 8

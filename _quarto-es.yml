@@ -5,6 +5,7 @@ project:
     - "index.qmd"
     - "*-es.qmd"
     - "news-es/*.qmd"
+    - "research-es/*.qmd"
     - "!news"   # Do not render news folder in English
     - "!research" # Do not render research folder in English
 
