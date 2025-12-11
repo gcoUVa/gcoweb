@@ -6,11 +6,11 @@ toc: false
 listing:
 - id: research
   contents: 
-    - research/optical-networks/index-es.qmd
-    - research/vehicular-communications/index-es.qmd
-    - research/radiocommunications/index-es.qmd
-    - research/rehabilitation-technologies/index-es.qmd
-    - research/innovation-on-education/index-es.qmd
+    - research-es/optical-networks
+    - research-es/vehicular-communications
+    - research-es/radiocommunications
+    - research-es/rehabilitation-technologies
+    - research-es/innovation-on-education
   sort: false
   type: grid
   grid-columns: 3

@@ -9,11 +9,11 @@ page-layout: custom
 listing:
 - id: research
   contents: 
-    - research/optical-networks/index.qmd
-    - research/vehicular-communications/index.qmd
-    - research/radiocommunications/index.qmd
-    - research/rehabilitation-technologies/index.qmd
-    - research/innovation-on-education/index.qmd
+    - research/optical-networks
+    - research/vehicular-communications
+    - research/radiocommunications
+    - research/rehabilitation-technologies
+    - research/innovation-on-education
   sort: false
   type: grid
   grid-columns: 4
@@ -38,15 +38,15 @@ listing:
   page-size: 3
   contents: 
     - news
-    - news.yml
+    - news/news.yml
 
 - id: research-es
   contents: 
-    - research/optical-networks/index-es.qmd
-    - research/vehicular-communications/index-es.qmd
-    - research/radiocommunications/index-es.qmd
-    - research/rehabilitation-technologies/index-es.qmd
-    - research/innovation-on-education/index-es.qmd
+    - research-es/optical-networks
+    - research-es/vehicular-communications
+    - research-es/radiocommunications
+    - research-es/rehabilitation-technologies
+    - research-es/innovation-on-education
   sort: false
   type: grid
   grid-columns: 4
@@ -71,7 +71,7 @@ listing:
   page-size: 3
   contents: 
     - news-es
-    - news-es.yml
+    - news-es/news-es.yml
 
 ---
 

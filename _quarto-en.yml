@@ -1,8 +1,12 @@
 project:
   type: website
   output-dir: docs/en
-  post-render:
-    - limpiar_portada.ts docs/en
+  render:
+    - "*.qmd"
+    - "!*-es.qmd"   # Do not render files in Spanish
+    - "!news-es"   # Do not render news folder in Spanish
+    - "!research-es" # Do not render research folder in Spanish
+  #post-render: limpiar_portada.ts docs/en
 
 website:
   title: "GCO-UVa"

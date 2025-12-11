@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Avances en Comunicaciones Vehiculares">
 
-<title>News – GCO-UVa</title>
+<title>Comunicaciones Vehiculares – GCO-UVa</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -56,36 +57,36 @@ ul.task-list li input[type="checkbox"] {
     "s"
   ],
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-news .list');
+    const listingTargetEl = window.document.querySelector('#listing-featured-news .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-news'] = new List('listing-news', options);
+    window['quarto-listings']['listing-featured-news'] = new List('listing-featured-news', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -129,13 +130,15 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="News – GCO-UVa">
-<meta property="og:description" content="What’s new">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Comunicaciones Vehiculares – GCO-UVa">
+<meta property="og:description" content="Avances en Comunicaciones Vehiculares">
+<meta property="og:image" content="https://gcouva.github.io/gcoweb/research-es/vehicular-communications/featured.jpg">
 <meta property="og:site_name" content="GCO-UVa">
-<meta name="twitter:title" content="News – GCO-UVa">
-<meta name="twitter:description" content="What’s new">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Comunicaciones Vehiculares – GCO-UVa">
+<meta name="twitter:description" content="Avances en Comunicaciones Vehiculares">
+<meta name="twitter:image" content="https://gcouva.github.io/gcoweb/research-es/vehicular-communications/featured.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -145,49 +148,49 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">GCO-UVa</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="../../about-es.html"> 
+<span class="menu-text">Acerca de</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Research</span></a>
+    <a class="nav-link" href="../../research-es.html"> 
+<span class="menu-text">Investigación</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
-<span class="menu-text">People</span></a>
+    <a class="nav-link" href="../../people-es.html"> 
+<span class="menu-text">Miembros</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./latest-projects.html"> 
-<span class="menu-text">Latest projects</span></a>
+    <a class="nav-link" href="../../latest-projects-es.html"> 
+<span class="menu-text">Últimos proyectos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./results.html"> 
-<span class="menu-text">Results</span></a>
+    <a class="nav-link" href="../../results-es.html"> 
+<span class="menu-text">Resultados</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./awards.html"> 
-<span class="menu-text">Awards</span></a>
+    <a class="nav-link" href="../../awards-es.html"> 
+<span class="menu-text">Premios</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
-<span class="menu-text">News</span></a>
+    <a class="nav-link" href="../../news-es.html"> 
+<span class="menu-text">Noticias</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./../es"> 
-<span class="menu-text">Español</span></a>
+    <a class="nav-link" href="../../../en"> 
+<span class="menu-text">English</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.instagram.com/gcouva/"> <i class="bi bi-instagram" role="img">
@@ -222,23 +225,35 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3B0aWNhbA==">Optical <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHVibGljYXRpb24=">Publication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmVoaWN1bGFy">Vehicular <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#visión-general" id="toc-visión-general" class="nav-link active" data-scroll-target="#visión-general">Visión general</a></li>
+  <li><a href="#noticias-destacadas" id="toc-noticias-destacadas" class="nav-link" data-scroll-target="#noticias-destacadas">Noticias destacadas</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">News</h1>
-<p class="subtitle lead">What’s new</p>
+<h1 class="title">Comunicaciones Vehiculares</h1>
+</div>
+
+<div>
+  <div class="description">
+    Avances en Comunicaciones Vehiculares
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -250,58 +265,74 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-news" class="quarto-listing quarto-listing-container-default">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-news-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-news'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="featured.jpg" class="img-fluid figure-img"></p>
+<figcaption>Image generated by Perplexity Pro</figcaption>
+</figure>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UHVibGljYXRpb24lMkNPcHRpY2FsJTJDVmVoaWN1bGFy" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1765308853665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
-<div class="thumbnail"><a href="./news/2025-10-01-pub-optimizing-road-size.html" class="no-external">
-
-<img loading="lazy" src="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./news/2025-10-01-pub-optimizing-road-size.html" class="no-external">Optimizing road side units connectivity in intelligent transportation systems with optical network solutions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./news/2025-10-01-pub-optimizing-road-size.html" class="no-external">New publication</a>
+<section id="visión-general" class="level2">
+<h2 class="anchored" data-anchor-id="visión-general">Visión general</h2>
+<p>Vehicular communications are very nice.</p>
+</section>
+<section id="noticias-destacadas" class="level2">
+<h2 class="anchored" data-anchor-id="noticias-destacadas">Noticias destacadas</h2>
+<div id="listing-featured-news" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-categories="UHVibGljYWNpJUMzJUIzbiUyQyVDMyU5M3B0aWNhJTJDVmVoaWN1bGFy" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1765319569547" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="331">
+<a href="../../news-es/2025-10-01-pub-optimizing-road-size-es.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://ars.els-cdn.com/content/image/1-s2.0-S2214209625X0005X-cov150h.gif" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Optimización de la conectividad de las unidades de carretera en sistemas de transporte inteligentes con soluciones de redes ópticas.
+</h5>
+<div class="card-subtitle listing-subtitle">
+Nueva publicación
 </div>
-<div class="delink listing-description"><a href="./news/2025-10-01-pub-optimizing-road-size.html" class="no-external">
-<p>New publication in the journal <em>Vehicular communications</em></p>
-</a></div>
+<div class="card-text listing-description delink">
+<p>Nueva publicación en la revista <em>Vehicular communications</em></p>
 </div>
-<div class="metadata">
-<a href="./news/2025-10-01-pub-optimizing-road-size.html" class="no-external">
+<div class="card-attribution card-text-small end">
 <div class="listing-date">
-2025-10-01
-</div>
-</a>
+1 oct 2025
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
+</div></a>
 </div>
+<div class="g-col-1" data-index="1" data-categories="UHJveWVjdG8lMkMlQzMlOTNwdGljYSUyQ1ZlaGljdWxhciUyQ1JhZGlvY29tdW5pY2FjaW9uZXM=" data-listing-date-sort="1737759600000">
+<a href="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/featured_hua39953f62025d471d2efbab9bf3003e1_200899_720x2500_fit_q90_h2_lanczos_3.webp" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Workshop C4CPS en VTC2025-Spring
+</h5>
+<div class="card-subtitle listing-subtitle">
+Organización de Workshop
+</div>
+<div class="card-text listing-description delink">
+<p>El profesor Ramón J. Durán Barroso (del equipo de la UVa en ONOFRE-4), junto con Estefanía Coronado y Estela Carmona-Cejudo (i2CAT) y otros colaboradores, está coorganizando…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+25 ene 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No hay resultados</div>
+</div>
+<p align="right">
+<a href="../../more-news-es.html#category=Vehicular">Más noticias »</a>
+</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -315,6 +346,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -342,12 +374,12 @@ https://quarto.org/docs/authoring/includes.html
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -730,7 +762,7 @@ https://quarto.org/docs/authoring/includes.html
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Website developed thanks to funding by Consejería de Educación de la Junta de Castilla y León for hiring of technical research support staff, cofinanced by the European Union. Website build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> provided by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+<p>Sitio web desarrollado gracias a la financiación de la Consejería de Educación de la Junta de Castilla y León para la contratación de personal técnico de apoyo a la investigación, cofinanciado por la Unión Europea. Sitio web creado a partir de la plantilla <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> proporcionada por el <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>.</p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

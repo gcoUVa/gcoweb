@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-image","listing-title","listing-lastname","listing-subtitle","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -216,10 +216,16 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Miembros – GCO-UVa">
 <meta property="og:description" content="Quiénes somos">
+<meta property="og:image" content="https://gcouva.github.io/gcoweb/files/headshots/alfonso-bahillo.png">
 <meta property="og:site_name" content="GCO-UVa">
+<meta property="og:image:height" content="197">
+<meta property="og:image:width" content="143">
 <meta name="twitter:title" content="Miembros – GCO-UVa">
 <meta name="twitter:description" content="Quiénes somos">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://gcouva.github.io/gcoweb/files/headshots/alfonso-bahillo.png">
+<meta name="twitter:image-height" content="197">
+<meta name="twitter:image-width" content="143">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -348,7 +354,22 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="profesoresinvestigadores">Profesores/Investigadores</h2>
 <div id="listing-lab-professors" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-
+<div class="g-col-1" data-index="0" data-categories="UHJvZmVzc29y">
+<a href="https://portaldelaciencia.uva.es/investigadores/200452/detalle?lang=en" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/headshots/alfonso-bahillo.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alfonso BAHILLO
+</h5>
+<div class="card-subtitle listing-subtitle">
+Profesor Titular / Associate Professor
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No hay resultados</div>
 </div>

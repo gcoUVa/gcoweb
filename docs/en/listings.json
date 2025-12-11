@@ -4,27 +4,7 @@
     "items": []
   },
   {
-    "listing": "/research.html",
-    "items": [
-      "/research/optical-networks/index.html",
-      "/research/vehicular-communications/index.html",
-      "/research/radiocommunications/index.html",
-      "/research/rehabilitation-technologies/index.html",
-      "/research/innovation-on-education/index.html"
-    ]
-  },
-  {
-    "listing": "/research/vehicular-communications/index.html",
-    "items": [
-      "/news/2025-10-01-pub-optimizing-road-size.html"
-    ]
-  },
-  {
     "listing": "/research/rehabilitation-technologies/index.html",
-    "items": []
-  },
-  {
-    "listing": "/research/radiocommunications/index.html",
     "items": []
   },
   {
@@ -34,17 +14,13 @@
     ]
   },
   {
-    "listing": "/research/innovation-on-education/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
+    "listing": "/research.html",
     "items": [
-      "/news/2025-10-01-pub-optimizing-road-size.html"
+      "/research/optical-networks/index.html",
+      "/research/vehicular-communications/index.html",
+      "/research/radiocommunications/index.html",
+      "/research/rehabilitation-technologies/index.html",
+      "/research/innovation-on-education/index.html"
     ]
   },
   {
@@ -58,6 +34,10 @@
     "items": []
   },
   {
+    "listing": "/awards.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/research/optical-networks/index.html",
@@ -65,79 +45,31 @@
       "/research/radiocommunications/index.html",
       "/research/rehabilitation-technologies/index.html",
       "/research/innovation-on-education/index.html",
-      "/news/2025-10-01-pub-optimizing-road-size.html",
-      "/research/optical-networks/index-es.html",
-      "/research/vehicular-communications/index-es.html",
-      "/research/radiocommunications/index-es.html",
-      "/research/rehabilitation-technologies/index-es.html",
-      "/research/innovation-on-education/index-es.html",
-      "/news-es/2025-10-01-pub-optimizing-road-size-es.html"
+      "/news/2025-10-01-pub-optimizing-road-size.html"
     ]
   },
   {
-    "listing": "/awards-es.html",
-    "items": []
-  },
-  {
-    "listing": "/awards.html",
-    "items": []
-  },
-  {
-    "listing": "/latest-projects-es.html",
-    "items": []
-  },
-  {
-    "listing": "/more-news-es.html",
+    "listing": "/news.html",
     "items": [
-      "/news-es/2025-10-01-pub-optimizing-road-size-es.html"
+      "/news/2025-10-01-pub-optimizing-road-size.html"
     ]
   },
   {
-    "listing": "/news-es.html",
+    "listing": "/people.html",
+    "items": []
+  },
+  {
+    "listing": "/research/innovation-on-education/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/radiocommunications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/vehicular-communications/index.html",
     "items": [
-      "/news-es/2025-10-01-pub-optimizing-road-size-es.html"
+      "/news/2025-10-01-pub-optimizing-road-size.html"
     ]
-  },
-  {
-    "listing": "/people-es.html",
-    "items": []
-  },
-  {
-    "listing": "/research/innovation-on-education/index-es.html",
-    "items": []
-  },
-  {
-    "listing": "/research/optical-networks/index-es.html",
-    "items": [
-      "/news-es/2025-10-01-pub-optimizing-road-size-es.html"
-    ]
-  },
-  {
-    "listing": "/research/radiocommunications/index-es.html",
-    "items": []
-  },
-  {
-    "listing": "/research/rehabilitation-technologies/index-es.html",
-    "items": []
-  },
-  {
-    "listing": "/research/vehicular-communications/index-es.html",
-    "items": [
-      "/news-es/2025-10-01-pub-optimizing-road-size-es.html"
-    ]
-  },
-  {
-    "listing": "/research-es.html",
-    "items": [
-      "/research/optical-networks/index-es.html",
-      "/research/vehicular-communications/index-es.html",
-      "/research/radiocommunications/index-es.html",
-      "/research/rehabilitation-technologies/index-es.html",
-      "/research/innovation-on-education/index-es.html"
-    ]
-  },
-  {
-    "listing": "/results-es.html",
-    "items": []
   }
 ]

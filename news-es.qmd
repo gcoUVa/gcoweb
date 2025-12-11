@@ -18,8 +18,8 @@ listing:
   # Quizás haya que meter el news.yml en el directorio
   # news y poner aquí news/ y news/*.yml. Pendiente de
   # verificación
-    - news-es/
-    - news-es.yml
+    - news-es
+    - news-es/news-es.yml
 ---
 
 

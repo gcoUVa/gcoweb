@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-image","listing-title","listing-subtitle","listing-author","listing-description","listing-date","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -333,7 +333,7 @@ Universidad de Valladolid (España)
 </div>
 </div>
 <div class="g-col-12 g-col-md-5">
-<p><a href="./about.html" data-fig-align="center"><img src=".\files/images/logogco_transparente.png" class="img-fluid"></a></p>
+<p><a href="about.qmd" data-fig-align="center"><img src=".\files/images/logogco_transparente.png" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -424,10 +424,10 @@ Líneas de investigación
 <div id="listing-research-es" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./research/optical-networks/index-es.html" class="quarto-grid-link">
+<a href="./research-es/optical-networks/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./research/optical-networks/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research-es/optical-networks/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -437,10 +437,10 @@ Redes ópticas
 </div></a>
 </div>
 <div class="g-col-1" data-index="1" data-listing-file-modified-sort="1765392725933" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./research/vehicular-communications/index-es.html" class="quarto-grid-link">
+<a href="./research-es/vehicular-communications/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./research/vehicular-communications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research-es/vehicular-communications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -450,10 +450,10 @@ Comunicaciones Vehiculares
 </div></a>
 </div>
 <div class="g-col-1" data-index="2" data-listing-file-modified-sort="1765319569547" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
-<a href="./research/radiocommunications/index-es.html" class="quarto-grid-link">
+<a href="./research-es/radiocommunications/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./research/radiocommunications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research-es/radiocommunications/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -463,10 +463,10 @@ Radiocomunicaciones
 </div></a>
 </div>
 <div class="g-col-1" data-index="3" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./research/rehabilitation-technologies/index-es.html" class="quarto-grid-link">
+<a href="./research-es/rehabilitation-technologies/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./research/rehabilitation-technologies/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research-es/rehabilitation-technologies/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -475,11 +475,11 @@ Tecnologías de Rehabilitación
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1765392725930" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
-<a href="./research/innovation-on-education/index-es.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1765453458017" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="./research-es/innovation-on-education/index-es.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./research/innovation-on-education/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research-es/innovation-on-education/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -906,6 +906,57 @@ Innovación en Educación
     }
   });
   </script>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-research">
+<div class="list grid quarto-listing-cols-4">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div><div class="quarto-listing quarto-listing-container-grid" id="listing-news">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UHJvamVjdCUyQ09wdGljYWwlMkNWZWhpY3VsYXIlMkNSYWRpb2NvbW11bmljYXRpb25z" data-listing-date-sort="1737759600000">
+<a href="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/featured_hua39953f62025d471d2efbab9bf3003e1_200899_720x2500_fit_q90_h2_lanczos_3.webp" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+C4CPS Workshop at VTC2025-Spring
+</h5>
+<div class="card-subtitle listing-subtitle">
+Workshop organization
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 25, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UHJvamVjdCUyQ09wdGljYWwlMkNWZWhpY3VsYXI=" data-listing-date-sort="1733266800000">
+<a href="https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/featured_huc42becb747592e49adedbc9dc8a230a7_516970_720x2500_fit_q90_h2_lanczos_3.webp" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+MICIU/AEI grants awarded to ONOFRE-4
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Project Update
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 4, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div></div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
