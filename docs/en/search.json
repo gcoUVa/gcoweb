@@ -70,6 +70,13 @@
     "text": "We have just published a new paper:\n\n\n\n\n\nCitation: Camilo Anzola-Rojas, Ignacio de Miguel, Noemí Merayo, Juan Carlos Aguado, Rubén M. Lorenzo, Ramón J. Durán Barroso, Optimizing road side units connectivity in intelligent transportation systems with optical network solutions, Vehicular Communications, Volume 56, 2025, 100975, ISSN 2214-2096, https://doi.org/10.1016/j.vehcom.2025.100975. (https://www.sciencedirect.com/science/article/pii/S2214209625001020)\n\n\nAbstract: A fundamental component of Intelligent Transportation Systems (ITS) is connectivity. For connected vehicles to be aware of events occurring nearby, or even far from them, roadside infrastructure is essential. Roadside Units (RSUs) are electronic equipment placed along highways to provide connectivity and share data with vehicles, other RSUs, and networks. Connected vehicles require wireless communication with RSUs; however, depending on the complexity of tasks and the number of users, spectrum resources may be insufficient to handle all required communication between vehicles, RSUs and external networks. Since RSUs are stationary, optical fiber is an ideal technology for interconnecting them and linking them to the Internet and the cloud, providing reliable, high-performance connectivity, with low signal attenuation and high bandwidth. This paper proposes a model for deploying fiber networks to connect RSUs, with a focus on minimizing capital expenditures, including costs for civil works, cables, and devices, which are critical considerations given the large distances involved. Specifically, we consider and compare two established optical network technologies: point-to-point (PtP) and passive optical networks (PON). To support this comparison, we present and test two novel Integer Linear Programming (ILP) formulations: one for PtP and one for PON. Additionally, we introduce a genetic algorithm that improves upon a previously proposed heuristic, achieving near-optimal results comparable to the ILP formulation, while efficiently solving large-scale scenarios. The results show that the optimal choice between PtP and PON depends on the deployment area and density of RSUs. Keywords: Networks; Optical fiber; Passive optical networks; Roadside units; Vehicles; Communications\nFunding: This work was supported by Ministerio de Ciencia, Innovación y Universidades / Agencia Estatal de Investigación (Grants PID2023-148104OB-C41 and PID2020-112675RB-C42 funded by MICIU/AEI/10.13039/501100011033 and the former also by ERFD/EU, European Regional Development Fund/European Union)"
   },
   {
+    "objectID": "news/241204-onofre4-grants.html",
+    "href": "news/241204-onofre4-grants.html",
+    "title": "MICIU/AEI grants awarded to ONOFRE-4",
+    "section": "",
+    "text": "More details: https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/"
+  },
+  {
     "objectID": "more-news.html",
     "href": "more-news.html",
     "title": "News",
@@ -117,6 +124,13 @@
     "title": "News",
     "section": "",
     "text": "Optimizing road side units connectivity in intelligent transportation systems with optical network solutions\n\n\nNew publication\n\n\nNew publication in the journal Vehicular communications\n\n\n\nOct 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nC4CPS Workshop at VTC2025-Spring\n\n\nWorkshop organization\n\n\nProf. Ramón J. Durán Barroso (from the UVa team at ONOFRE-4), along Estefanía Coronado and Estela Carmona-Cejudo (i2CAT) and other collaborators, is co-organizing the IEEE…\n\n\n\nJan 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMICIU/AEI grants awarded to ONOFRE-4\n\n\nResearch Project Update\n\n\nOn 4th December 2024, the website of the Agencia Estatal de Investigación (State Research Agency) published the order granting funding under the 2023 call for Proyectos de…\n\n\n\nDec 4, 2024\n\n\n\n\n\n\nNo matching items\n\n\nMore news »"
+  },
+  {
+    "objectID": "news/250125-C4CPS-workshop.html",
+    "href": "news/250125-C4CPS-workshop.html",
+    "title": "C4CPS Workshop at VTC2025-Spring",
+    "section": "",
+    "text": "More details: https://onofre4.tel.uva.es/news/20250120_workshop_vtc2025/"
   },
   {
     "objectID": "people.html",

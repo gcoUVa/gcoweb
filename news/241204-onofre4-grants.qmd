@@ -3,10 +3,12 @@ title: "MICIU/AEI grants awarded to ONOFRE-4"
 subtitle: "Research Project Update"
 lang: en
 image: https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/featured_huc42becb747592e49adedbc9dc8a230a7_516970_720x2500_fit_q90_h2_lanczos_3.webp
-path: https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/
 description: "On 4th December 2024, the website of the Agencia Estatal de Investigación (State Research Agency) published the order granting funding under the 2023 call for Proyectos de Generación de Conocimiento (Knowledge Generation Projects). As part of this, the ONOFRE-4 project has been awarded the following grants: PID2023-148104OB-C41 (to Universidad de Valladolid), PID2023-148104OB-C42 (to Universidad Politécnica de Cartagena), and PID2023-148104OB-C43 (to Universidad de Murcia). These grants are funded by MICIU/AEI/10.13039/501100011033 and by ERDF/EU."
 date: "2024-12-04"
 categories: [Project, Optical, Vehicular]
 link-external-newwindow: true
 ---
 
+More details: <https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/>
+
+![](https://onofre4.tel.uva.es/news/20241204_concesion_ayudas/featured_huc42becb747592e49adedbc9dc8a230a7_516970_720x2500_fit_q90_h2_lanczos_3.webp)
