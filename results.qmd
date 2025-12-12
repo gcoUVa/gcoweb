@@ -1,7 +1,7 @@
 ---
 title: "Results"
 subtitle: "Funding, projects, publications, PhD theses, patents and collaborations"
-lang: es
+lang: en
 page-layout: full
 toc: false
 listing: 

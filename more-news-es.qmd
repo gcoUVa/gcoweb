@@ -13,7 +13,7 @@ listing:
   fields: [image, title, subtitle, date, description]
   field-display-names: 
       subtitle: "Type"
-  #image-height: 100px
+  image-height: 200px
   categories: true
   sort-ui: true
   filter-ui: true
