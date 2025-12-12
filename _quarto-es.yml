@@ -3,6 +3,7 @@ project:
   output-dir: docs/es
   render:
     - "index.qmd"
+    - "404.qmd"
     - "*-es.qmd"
     - "news-es/*.qmd"
     - "research-es/*.qmd"
@@ -34,9 +35,9 @@ website:
       - text: English
         href: ../en
       - icon: instagram
-        href: https://www.instagram.com/gcouva/
+        href: https://www.instagram.com/gco_uva/
       - icon: facebook
-        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/
+        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/61584502670599/
       - icon: linkedin
         href: https://www.linkedin.com/company/grupo-de-comunicaciones-%C3%B3pticas
       - icon: twitter
@@ -49,9 +50,9 @@ website:
     center: "Sitio web desarrollado gracias a la financiación de la Consejería de Educación de la Junta de Castilla y León para la contratación de personal técnico de apoyo a la investigación, cofinanciado por la Unión Europea. Sitio web creado a partir de la plantilla [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) proporcionada por el [Dr. Gang He](http://drganghe.github.io)."
     right:  
       - icon: instagram
-        href: https://www.instagram.com/gcouva/
+        href: https://www.instagram.com/gco_uva/
       - icon: facebook
-        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/
+        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/61584502670599/
       - icon: linkedin
         href: https://www.linkedin.com/company/grupo-de-comunicaciones-%C3%B3pticas
       - icon: twitter

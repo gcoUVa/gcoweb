@@ -35,9 +35,9 @@ website:
       - text: Español
         href: ../es
       - icon: instagram
-        href: https://www.instagram.com/gcouva/
+        href: https://www.instagram.com/gco_uva/
       - icon: facebook
-        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/
+        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/61584502670599/
       - icon: linkedin
         href: https://www.linkedin.com/company/grupo-de-comunicaciones-%C3%B3pticas
       - icon: twitter
@@ -50,9 +50,9 @@ website:
     center: "Website developed thanks to funding by Consejería de Educación de la Junta de Castilla y León for hiring of technical research support staff, cofinanced by the European Union. Website build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) provided by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: instagram
-        href: https://www.instagram.com/gcouva/
+        href: https://www.instagram.com/gco_uva/
       - icon: facebook
-        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/
+        href: https://www.facebook.com/people/Grupo-de-Comunicaciones-%C3%93pticas/61584502670599/
       - icon: linkedin
         href: https://www.linkedin.com/company/grupo-de-comunicaciones-%C3%B3pticas
       - icon: twitter
