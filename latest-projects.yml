@@ -26,4 +26,29 @@
   ended: 2025
   categories: [Regional]
 
+- path: https://portaldelaciencia.uva.es/proyectos/913658/detalle
+  image: /images/projects/aginplace.jpg
+  title: "AGINPLACE"
+  subtitle: "National project (2024-2028)"
+  description: "Design, development, and evaluation of the effectiveness, feasibility, and acceptability of technological solutions to help people with mental health disorders age independently in their homes, avoiding or delaying institutionalization, with a special focus on non-cooperative individuals."
+  started: 2024
+  ended: 2028
+  categories: [National] 
 
+- path: https://portaldelaciencia.uva.es/proyectos/698877/detalle
+  image: /images/projects/swalu23.png
+  title: "SWALU23"
+  subtitle: "National project (2023-2026)"
+  description: "Development and validation of a new automatic system for the prediction, diagnosis, and early analysis of lower urinary tract pathologies, through new signal processing techniques and AI research using Smartwatch."
+  started: 2023
+  ended: 2026
+  categories: [National]
+
+- path: https://www.saludmentalzamora.com/proyecto-equisam/
+  image: /images/projects/equisam.png
+  title: "EQUISAM: Accesibilidad y equidad de atención en salud mental a la población rural en la zona fronteriza. Desde la cooperación a la innovación"
+  subtitle: "European project (2024-2026)"
+  description: "Through this project, and with the pilot experience in Zamora, the aim is to implement a community care model that makes mental health accessible in all primary care health centers on both sides of the border. To this end, new technologies will be used and an action and sustainability plan will be established to promote coordination and shared support between services."
+  started: 2024
+  ended: 2026
+  categories: [European] 
