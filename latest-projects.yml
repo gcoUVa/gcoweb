@@ -1,6 +1,6 @@
 
 - path: https://onofre4.tel.uva.es
-  image: /images/projects/onofre4.png
+  image: /images/projects/onofre4_16-9.png
   title: "ONOFRE-4: Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility"
   subtitle: "National project (2024-2027)"
   description: "Efficient planning and management of networks equipped with computing resources, providing support for connected, reliable and secure mobility."
@@ -9,7 +9,7 @@
   categories: [National] 
 
 - path: https://iotalentum.eu
-  image: /images/projects/iotalentum.svg
+  image: /images/projects/iotalentum_16-9.png
   title: "IOTALENTUM"
   subtitle: "European project (2020-2025)"
   description: "High-level training in the field of IoT to Early Stage Researchers and research on IoT supporting infrastructures, cybersecurity and smart grids."
@@ -18,7 +18,7 @@
   categories: [European]
 
 - path: https://sway.cloud.microsoft/yq1ifPqyzyppxaKi?ref=Link
-  image: /images/projects/artemis.png
+  image: /images/projects/artemis_16-9.png
   title: "ARTEMIS"
   subtitle: "Regional project (2020-2023)"
   description: "The ARTEMIS project has studied and proposed solutions to enable future communications networks to support connected vehicle services. This requires the integration of edge computing into communications networks. Several technologies appear to facilitate this evolution: advanced optical networks for both access and metropolitan/backbone segments, control methods based on software-defined networks (SDN) and network function virtualisation (NFV)."
@@ -27,7 +27,7 @@
   categories: [Regional]
 
 - path: https://portaldelaciencia.uva.es/proyectos/913658/detalle
-  image: /images/projects/aginplace.jpg
+  image: /images/projects/aginplace_16-9.png
   title: "AGINPLACE"
   subtitle: "National project (2024-2028)"
   description: "Design, development, and evaluation of the effectiveness, feasibility, and acceptability of technological solutions to help people with mental health disorders age independently in their homes, avoiding or delaying institutionalization, with a special focus on non-cooperative individuals."
@@ -45,7 +45,7 @@
   categories: [National]
 
 - path: https://www.saludmentalzamora.com/proyecto-equisam/
-  image: /images/projects/equisam.png
+  image: /images/projects/equisam_16-9.png
   title: "EQUISAM: Accesibilidad y equidad de atención en salud mental a la población rural en la zona fronteriza. Desde la cooperación a la innovación"
   subtitle: "European project (2024-2026)"
   description: "Through this project, and with the pilot experience in Zamora, the aim is to implement a community care model that makes mental health accessible in all primary care health centers on both sides of the border. To this end, new technologies will be used and an action and sustainability plan will be established to promote coordination and shared support between services."
