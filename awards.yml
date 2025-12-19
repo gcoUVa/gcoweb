@@ -22,25 +22,26 @@
 
 - image: /images/awards/award.webp
   title: "Educational Innovation Award from the Social Council of the Universidad de Valladolid (Accésit Prize), 'Laboratorio de Comunicación Multimedia-UVA (LabcomUVA)'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path: https://comunicacion.uva.es/es_ES/detalle/La-Universidad-de-Valladolid-entrega-el-Premio-de-Innovacion-Educativa-promovido-por-el-Consejo-Social-a-un-proyecto-de-la-ETS-de-Telecomunicacion
   author: 
     - Pilar Sánchez García (Coordinator)
+    - Noemí Merayo (Participant)
   description: "Educational Innovation Award from the Social Council of the Universidad de Valladolid (Accésit Prize), 'Laboratorio de Comunicación Multimedia-UVA (LabcomUVA)'. Pilot experience of applications and visualization of ig Data in Journalism and Telecommunications classrooms."
   date: "2019"
 
 - image: /images/awards/award.webp
   title: "Educational Innovation Award from the Social Council of the Universidad de Valladolid (1st Place), 'MENTUM- Proyecto de mentorización en la E.T.S.I. Telecomunicación'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path: https://consejosocial.uva.es/el-proyecto-de-mentorizacion-mentum-de-la-etsi-telecomunicacion-premio-innovacion-educativa-2016
   author: 
-    -  Patricia Fernández del Reguero
+    -  Patricia Fernández del Reguero (Coordinator)
   description: "The Project 'MENTUM-Proyecto de mentorización en la E.T.S.I. Telecomunicación' at the Universidad de Valladolid's School of Telecommunications Engineering has been awarded the 2016 Educational Innovation Award by the UVa Social Council to promote and support best practices in the field of teaching innovation at the University."
   date: "2016"
 
 - image: /images/awards/award.webp
   title: "Educational Innovation Award from the Social Council of the Universidad de Valladolid (1st Place), 'Diseño de la Plataforma de Aprendizaje online Web-Based AIM-Mobile Learning Platform'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path: https://www.dicyt.com/noticias/el-consejo-social-de-la-uva-entrega-su-premio-de-innovacion-educativa-2015
   author: 
     -  Noemí Merayo (Coordinator)
@@ -49,7 +50,7 @@
 
 - image: /images/awards/award.webp
   title: "First Edition of the Universidad de Valladolid Awards for Excellence in TFG, TFM, and Doctoral Thesis Research on Gender Equality and Violence for the Best Master's Thesis (TFM)"
-  subtitle: "National award"
+  subtitle: "Local award"
   path: https://comunicacion.uva.es/en/detalle/La-I-Edicion-de-los-Premios-de-Igualdad-destaca-la-investigacion-en-materia-de-genero-en-la-UVa
   author: 
     - Carlota Santoro Sans
@@ -60,7 +61,7 @@
 
 - image: /images/awards/award.webp
   title: "Prometeo Innovation Award from the General Foundation of the Universidad de Valladolid (FUNGE) (1st Place)"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - Grupo de Comunicaciones Ópticas
@@ -69,7 +70,7 @@
 
 - image: /images/awards/award.webp
   title: "Special Doctorate Award in the field of Engineering and Architecture for the Thesis 'Redes ópticas cognitivas: análisis y optimización del paradigma semiestático'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - Natalia Fernández Sordo
@@ -79,7 +80,7 @@
 
 - image: /images/awards/award.webp
   title: "Special Doctorate Award in the field of Engineering and Architecture for the Doctoral Thesis 'Evaluación de la influencia del cuerpo humano en las medidas de exposición a radiaciones no ionizanes en recintos interiores'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - Silvia María de Miguel Bilbao
@@ -90,7 +91,7 @@
 
 - image: /images/awards/award.webp
   title: "Special Doctorate Award in the field of Engineering and Architecture for the Doctoral Thesis 'Técnicas adaptativas y cognitivas para la gestión de recursos en redes de acceso'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - Tamara Jiménez Garciñuño
@@ -110,7 +111,7 @@
 
 - image: /images/awards/award.webp
   title: "Special Doctorate Award for Doctoral Thesis 'Rendimiento de TCP y Cálculo de Rutas en Redes de Conmutación Óptica de Ráfagas'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - Óscar González de Dios
@@ -120,7 +121,7 @@
 
 - image: /images/awards/award.webp
   title: "2007 Innovation and Development Award in the field of Information Technology, for the Final Degree Project 'Diseño e implementación de un sistema de instrumentación modular y flexible: Aplicación al desarrollo de instrumentación para un laboratorio de comunicaciones ópticas'"
-  subtitle: "National award"
+  subtitle: "Reginal award"
   path:
   author:
     - Alberto López Martín
@@ -130,18 +131,18 @@
   date: "2007"
 
 - image: /images/awards/award.webp
-  title: "Special Doctorate Award for Doctoral Thesis 'Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas'"
-  subtitle: "National award"
+  title: "Special Doctorate Award for Doctoral Thesis 'Estudio y optimización de las redes de difracción de bragg en fibra apodizadas con chirp lineal compensadoras de dispersión'"
+  subtitle: "Local award"
   path:
   author:
     - Patricia Fernández del Reguero
     - Rubén M. Lorenzo Toledo (Director)
-  description: "Special Doctorate Award for the Doctoral Thesis by Patricia Fernández del Reguero entitled 'Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas', under the direction of Rubén M. Lorenzo Toledo. Awarded by the Universidad de Valladolid"
+  description: "Special Doctorate Award for the Doctoral Thesis by Patricia Fernández del Reguero entitled 'Estudio y optimización de las redes de difracción de bragg en fibra apodizadas con chirp lineal compensadoras de dispersión', under the direction of Rubén M. Lorenzo Toledo. Awarded by the Universidad de Valladolid"
   date: "2005"
 
 - image: /images/awards/award.webp
   title: "Extraordinary Doctorate Degree for Doctoral Thesis 'Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - Ignacio de Miguel Jiménez
@@ -162,7 +163,7 @@
 
 - image: /images/awards/award.webp
   title: "Nortel Networks Award for one of the two best Final Degree Projects in Telecommunications Engineering and Electronic Engineering at the Universidad de Valladolid, for PFC 'Aplicación de Técnicas de Inteligencia Artificial al Diseño de Redes Ópticas WDM'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path:
   author:
     - David Bisbal Van Bylen
@@ -173,7 +174,7 @@
 
 - image: /images/awards/award.webp
   title: "Nortel Networks Award for the Best Doctoral Thesis on Optical Internet 'Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas'"
-  subtitle: "National award"
+  subtitle: "Local award"
   path: https://www.coit.es/premio-nortel-networks-en-internet-optica-0
   author:
     - Ignacio de Miguel Jiménez
@@ -183,7 +184,7 @@
 
 - image: /images/awards/award.webp
   title: "2001 Innovation and Development Award in the field of Information Technology, for the Final Degree Project 'Estudio y Utilización de Amplificadores Ópticos de Fibra Óptica Dopada con Erbio en Redes de Comunicaciones Ópticas WDM'"
-  subtitle: "National award"
+  subtitle: "Regional award"
   path:
   author:
     - Gonzalo Martín de Mercado Pérez
@@ -204,7 +205,7 @@
 
 - image: /images/awards/award.webp
   title: "2000 Innovation and Development Award in the field of Information Technology for the Final Degree Project 'Diseño de Topologías Lógicas en Redes WDM con Encaminamiento por Longitud de Onda'"
-  subtitle: "National award"
+  subtitle: "Regional award"
   path:
   author:
     - Fernando González Fernández
@@ -214,7 +215,7 @@
 
 - image: /images/awards/award.webp
   title: "1997 Innovation and Development Award in the field of Information Technology for the Final Degree Project 'Diseño del Canal de Retorno de una Red de Televisión por Cable'"
-  subtitle: "National award"
+  subtitle: "Regional award"
   path:
   author:
     - Ignacio de Miguel Jiménez

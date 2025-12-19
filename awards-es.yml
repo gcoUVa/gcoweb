@@ -22,25 +22,26 @@
 
 - image: /images/awards/award.webp
   title: "Premio de Innovación Educativa del Consejo Social de la Universidad de Valladolid (Premio Accésit), «Laboratorio de Comunicación Multimedia-UVA (LabcomUVA)»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path: https://comunicacion.uva.es/es_ES/detalle/La-Universidad-de-Valladolid-entrega-el-Premio-de-Innovacion-Educativa-promovido-por-el-Consejo-Social-a-un-proyecto-de-la-ETS-de-Telecomunicacion
   author: 
     - Pilar Sánchez García (Coordinadora)
+    - Noemí Merayo (Participante)
   description: "Premio de Innovación Educativa del Consejo Social de la Universidad de Valladolid (Premio Accésit), «Laboratorio de Comunicación Multimedia-UVA (LabcomUVA)». Experiencia piloto de aplicaciones y visualización de ig Data en las aulas de Periodismo y Telecomunicación."
   date: "2019"
 
 - image: /images/awards/award.webp
   title: "Premio de Innovación Educativa del Consejo Social de la Universidad de Valladolid (1º Premio), «MENTUM- Proyecto de mentorización en la E.T.S.I. Telecomunicación»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path: https://consejosocial.uva.es/el-proyecto-de-mentorizacion-mentum-de-la-etsi-telecomunicacion-premio-innovacion-educativa-2016
   author: 
-    -  Patricia Fernández del Reguero
+    -  Patricia Fernández del Reguero (Coordinadora)
   description: "El Proyecto «MENTUM-Proyecto de mentorización en la E.T.S.I. Telecomunicación» de la Escuela Técnica Superior de Ingenieros de Telecomunicación de la Universidad de Valladolid ha sido galardonado con el Premio de Innovación Educativa 2016 que otorga el Consejo Social de la UVa para promover y apoyar las buenas prácticas en el ámbito de la innovación docente en la Universidad."
   date: "2016"
 
 - image: /images/awards/award.webp
   title: "Premio de Innovación Educativa del Consejo Social de la Universidad de Valladolid (1º Premio), «Diseño de la Plataforma de Aprendizaje online Web-Based AIM-Mobile Learning Platform»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path: https://www.dicyt.com/noticias/el-consejo-social-de-la-uva-entrega-su-premio-de-innovacion-educativa-2015
   author: 
     -  Noemí Merayo (Coordinadora)
@@ -49,7 +50,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio I Edición de los Premios de Excelencia de TFG, TFM y Tesis Doctoral en Investigación en materia de Igualdad y Violencia de Género de la Universidad de Valladolid al Mejor Trabajo Fin de Master (TFM)"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path: https://comunicacion.uva.es/en/detalle/La-I-Edicion-de-los-Premios-de-Igualdad-destaca-la-investigacion-en-materia-de-genero-en-la-UVa
   author: 
     - Carlota Santoro Sans
@@ -60,7 +61,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Prometeo de Innovación de la Fundación General de la Universidad de Valladolid (FUNGE) (1º Premio)"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path:
   author:
     - Grupo de Comunicaciones Ópticas
@@ -69,7 +70,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Extraordinario de Doctorado en la rama de Ingeniería y Arquitectura por la Tesis «Redes ópticas cognitivas: análisis y optimización del paradigma semiestático»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path:
   author:
     - Natalia Fernández Sordo
@@ -79,7 +80,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Extraordinario de Doctorado en la rama de Ingeniería y Arquitectura por la Tesis Doctoral «Evaluación de la influencia del cuerpo humano en las medidas de exposición a radiaciones no ionizanes en recintos interiores»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path:
   author:
     - Silvia María de Miguel Bilbao
@@ -90,7 +91,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Extraordinario de Doctorado en la rama de Ingeniería y Arquitectura por la Tesis Doctoral «Técnicas adaptativas y cognitivas para la gestión de recursos en redes de acceso»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path:
   author:
     - Tamara Jiménez Garciñuño
@@ -110,7 +111,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Extraordinario de Doctorado por la Tesis Doctoral «Rendimiento de TCP y Cálculo de Rutas en Redes de Conmutación Óptica de Ráfagas»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path:
   author:
     - Óscar González de Dios
@@ -120,7 +121,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Innovación y Desarrollo 2007 en el área de Tecnologías de la Información, al Proyecto Fin de Carrera bajo el título «Diseño e implementación de un sistema de instrumentación modular y flexible: Aplicación al desarrollo de instrumentación para un laboratorio de comunicaciones ópticas»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio regional"
   path:
   author:
     - Alberto López Martín
@@ -130,18 +131,18 @@
   date: "2007"
 
 - image: /images/awards/award.webp
-  title: "Premio Extraordinario de Doctorado por la Tesis Doctoral «Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas»"
-  subtitle: "Premio nacional"
+  title: "Premio Extraordinario de Doctorado por la Tesis Doctoral «Estudio y optimización de las redes de difracción de bragg en fibra apodizadas con chirp lineal compensadoras de dispersión»"
+  subtitle: "Premio local"
   path:
   author:
     - Patricia Fernández del Reguero
     - Rubén M. Lorenzo Toledo (Director)
-  description: "Premio Extraordinario de Doctorado por la Tesis Doctoral realizada por Patricia Fernández del Reguero titulada «Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas», bajo la dirección de Rubén M. Lorenzo Toledo. Otorgado por la Universidad de Valladolid"
+  description: "Premio Extraordinario de Doctorado por la Tesis Doctoral realizada por Patricia Fernández del Reguero titulada «Estudio y optimización de las redes de difracción de bragg en fibra apodizadas con chirp lineal compensadoras de dispersión», bajo la dirección de Rubén M. Lorenzo Toledo. Otorgado por la Universidad de Valladolid"
   date: "2005"
 
 - image: /images/awards/award.webp
   title: "Premio Extraordinario de Doctorado por la Tesis Doctoral «Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path:
   author:
     - Ignacio de Miguel Jiménez
@@ -162,7 +163,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Nortel Networks a uno de los dos mejores Proyectos Fin de Carrera en Ingeniería de Telecomunicación e Ingeniería Electrónica en la Universidad de Valladolid, al PFC «Aplicación de Técnicas de Inteligencia Artificial al Diseño de Redes Ópticas WDM»"
-  subtitle: "Premio nacional"
+  subtitle: "Local nacional"
   path:
   author:
     - David Bisbal Van Bylen
@@ -173,7 +174,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Nortel Networks a la mejor Tesis Doctoral en Internet Óptica «Diseño y modelado de redes ópticas con encaminamiento por longitud de onda y conmutación de ráfagas»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio local"
   path: https://www.coit.es/premio-nortel-networks-en-internet-optica-0
   author:
     - Ignacio de Miguel Jiménez
@@ -183,7 +184,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Innovación y Desarrollo 2001 en el área de Tecnologías de la Información, al Proyecto Fin de Carrera «Estudio y Utilización de Amplificadores Ópticos de Fibra Óptica Dopada con Erbio en Redes de Comunicaciones Ópticas WDM»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio regional"
   path:
   author:
     - Gonzalo Martín de Mercado Pérez
@@ -204,7 +205,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Innovación y Desarrollo 2000 en el área de Tecnologías de la Información, al Proyecto Fin de Carrera «Diseño de Topologías Lógicas en Redes WDM con Encaminamiento por Longitud de Onda»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio regional"
   path:
   author:
     - Fernando González Fernández
@@ -214,7 +215,7 @@
 
 - image: /images/awards/award.webp
   title: "Premio Innovación y Desarrollo 1997 en el área de Tecnologías de la Información, al Proyecto Fin de Carrera «Diseño del Canal de Retorno de una Red de Televisión por Cable»"
-  subtitle: "Premio nacional"
+  subtitle: "Premio regional"
   path:
   author:
     - Ignacio de Miguel Jiménez
