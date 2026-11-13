@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -196,7 +197,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -318,7 +319,7 @@ window.Quarto = {
   <li><a href="#professorsresearchers" id="toc-professorsresearchers" class="nav-link active" data-scroll-target="#professorsresearchers">Professors/Researchers</a></li>
   <li><a href="#researchersstudents" id="toc-researchersstudents" class="nav-link" data-scroll-target="#researchersstudents">Researchers/Students</a></li>
   <li><a href="#technicians" id="toc-technicians" class="nav-link" data-scroll-target="#technicians">Technicians</a></li>
-  <li><a href="#alumni-and-past-visitors" id="toc-alumni-and-past-visitors" class="nav-link" data-scroll-target="#alumni-and-past-visitors">Alumni and Past Visitors</a></li>
+  <li><a href="#past-researchers-alumni-and-visitors" id="toc-past-researchers-alumni-and-visitors" class="nav-link" data-scroll-target="#past-researchers-alumni-and-visitors">Past Researchers, Alumni and Visitors</a></li>
   </ul>
 </nav>
     </div>
@@ -440,7 +441,7 @@ Full Professor
 Noemí MERAYO
 </h5>
 <div class="card-subtitle listing-subtitle">
-Associate Professor
+Full Professor
 </div>
 </div>
 </div></a>
@@ -478,22 +479,6 @@ Associate Professor
 </div></a>
 </div>
 <div class="g-col-1" data-index="8">
-<a href="https://portaldelaciencia.uva.es/investigadores/180978/detalle?lang=en" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./images/headshots/alonso-alonso.jpg" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Alonso ALONSO
-</h5>
-<div class="card-subtitle listing-subtitle">
-Associate Professor
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="9">
 <a href="https://portaldelaciencia.uva.es/investigadores/179435/detalle?lang=en" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -509,7 +494,7 @@ Associate Professor
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10">
+<div class="g-col-1" data-index="9">
 <a href="https://portaldelaciencia.uva.es/investigadores/181821/detalle?lang=en" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -534,22 +519,6 @@ Assistant Professor
 <div id="listing-lab-researchers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
 <div class="g-col-1" data-index="0">
-<a href="https://portaldelaciencia.uva.es/investigadores/767375/detalle?lang=es" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./images/headshots/camilo-anzola.jpg" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Camilo ANZOLA-ROJAS
-</h5>
-<div class="card-subtitle listing-subtitle">
-PhD Student
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1">
 <a href="https://portaldelaciencia.uva.es/investigadores/988309/detalle?lang=en" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -565,7 +534,7 @@ PhD Student
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2">
+<div class="g-col-1" data-index="1">
 <a href="https://portaldelaciencia.uva.es/investigadores/988295/detalle" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -581,7 +550,7 @@ PhD Student
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3">
+<div class="g-col-1" data-index="2">
 <a href="https://www.uva.es" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -625,8 +594,8 @@ Research Support Officer
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
-<section id="alumni-and-past-visitors" class="level2">
-<h2 class="anchored" data-anchor-id="alumni-and-past-visitors">Alumni and Past Visitors</h2>
+<section id="past-researchers-alumni-and-visitors" class="level2">
+<h2 class="anchored" data-anchor-id="past-researchers-alumni-and-visitors">Past Researchers, Alumni and Visitors</h2>
 <div id="listing-lab-alumni" class="quarto-listing quarto-listing-container-table">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
@@ -683,7 +652,45 @@ Research Support Officer
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-title-sort="Maryam MASOUMI">
+<tr data-index="0" data-listing-title-sort="Camilo ANZOLA-ROJAS">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/headshots/camilo-anzola.jpg" style="height: 25px;"></span>
+</td>
+<td>
+<a href="https://portaldelaciencia.uva.es/investigadores/767375/detalle?lang=es" class="title listing-title">Camilo ANZOLA-ROJAS</a>
+</td>
+<td>
+<span class="listing-subtitle">PhD Student</span>
+</td>
+<td>
+<span class="listing-started">&nbsp;</span>
+</td>
+<td>
+<span class="listing-ended">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="Alonso ALONSO">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/headshots/alonso-alonso.jpg" style="height: 25px;"></span>
+</td>
+<td>
+<a href="https://portaldelaciencia.uva.es/investigadores/180978/detalle?lang=en" class="title listing-title">Alonso ALONSO</a>
+</td>
+<td>
+<span class="listing-subtitle">Associate Professor</span>
+</td>
+<td>
+<span class="listing-started">&nbsp;</span>
+</td>
+<td>
+<span class="listing-ended">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="Maryam MASOUMI">
 <td>
 <span class="listing-image"><img loading="lazy" src="./images/headshots/maryam-masoumi.jpg" style="height: 25px;"></span>
 </td>
@@ -702,7 +709,7 @@ Research Support Officer
 
 </tr>
 
-<tr data-index="1" data-listing-title-sort="Soheil HOSSEINI">
+<tr data-index="3" data-listing-title-sort="Soheil HOSSEINI">
 <td>
 <span class="listing-image"><img loading="lazy" src="./images/headshots/soheil-hosseini.jpg" style="height: 25px;"></span>
 </td>
@@ -721,7 +728,7 @@ Research Support Officer
 
 </tr>
 
-<tr data-index="2" data-listing-title-sort="Lidia RUIZ">
+<tr data-index="4" data-listing-title-sort="Lidia RUIZ">
 <td>
 <span class="listing-image"><img loading="lazy" src="./images/headshots/lidia-ruiz.jpg" style="height: 25px;"></span>
 </td>
@@ -801,13 +808,14 @@ Research Support Officer
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

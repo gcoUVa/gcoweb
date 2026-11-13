@@ -20,7 +20,6 @@ listing:
     - people/noemi-merayo.yml
     - people/juancarlos-aguado.yml
     - people/alfonso-bahillo.yml
-    - people/alonso-alonso.yml
     - people/juan-blas.yml
     - people/ramon-delarosa.yml
 
@@ -31,7 +30,6 @@ listing:
   grid-columns: 4
   image-height: 200px
   contents: 
-    - people/camilo-anzola.yml
     - people/kanwal-janjua.yml
     - people/miguel-silva.yml
     - people/marco-villa.yml
@@ -57,6 +55,8 @@ listing:
       started: "Started"
       ended: "Ended"
   contents: # More recent first
+    - people/camilo-anzola.yml
+    - people/alonso-alonso.yml
     - people/maryam-masoumi.yml 
     - people/soheil-hosseini.yml
     - people/lidia-ruiz.yml   
@@ -83,7 +83,7 @@ format:
 :::{#lab-technicians}
 :::
 
-## Alumni and Past Visitors
+## Past Researchers, Alumni and Visitors
 
 :::{#lab-alumni}
 :::
